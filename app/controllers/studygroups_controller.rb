@@ -21,8 +21,6 @@ class StudygroupsController < ApplicationController
     the_studygroup = Studygroup.new
     the_studygroup.course_id = params.fetch("query_course_id")
     the_studygroup.timeblock = params.fetch("query_timeblock")
-    the_studygroup.members_count = params.fetch("query_members_count")
-    the_studygroup.sgcomments_count = params.fetch("query_sgcomments_count")
 
     if the_studygroup.valid?
       the_studygroup.save

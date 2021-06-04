@@ -1,7 +1,7 @@
 <div>
   <div>
     <h1>
-      List of all schools
+      All Schools
     </h1>
   </div>
 </div>
@@ -35,20 +35,9 @@
   <div>
     <table>
       <tr>
-        <th>
-          ID
-        </th>
 
         <th>
           Name
-        </th>
-
-        <th>
-          Created at
-        </th>
-
-        <th>
-          Updated at
         </th>
 
         <th>
@@ -57,19 +46,9 @@
 
       <% @list_of_schools.each do |a_school| %>
       <tr>
-        <td>
-          <%= a_school.id %>
-        </td>
 
         <td>
           <%= a_school.name %>
-        </td>
-
-        <td>
-          <%= time_ago_in_words(a_school.created_at) %> ago
-        </td>
-        <td>
-          <%= time_ago_in_words(a_school.updated_at) %> ago
         </td>
 
         <td>

@@ -198,6 +198,7 @@ Rails.application.routes.draw do
   post("/insert_course", { :controller => "courses", :action => "create" })
           
   # READ
+  get("/", { :controller => "courses", :action => "index" })
   get("/courses", { :controller => "courses", :action => "index" })
   
   get("/courses/:path_id", { :controller => "courses", :action => "show" })
@@ -213,8 +214,7 @@ Rails.application.routes.draw do
 
   # Routes for the User account:
 
-  # SIGN UP FORM
-  get("/", { :controller => "user_authentication", :action => "sign_up_form" })     
+  # SIGN UP FORM     
   get("/user_sign_up", { :controller => "user_authentication", :action => "sign_up_form" })        
   # CREATE RECORD
   post("/insert_user", { :controller => "user_authentication", :action => "create"  })
@@ -238,5 +238,6 @@ Rails.application.routes.draw do
   get("/user_sign_out", { :controller => "user_authentication", :action => "destroy_cookies" })
              
   #------------------------------
+  get("/users", { :controller => "user_authentication", :action => "index"})
 
 end

@@ -27,8 +27,6 @@ class CoursesController < ApplicationController
     the_course.course_number = params.fetch("query_course_number")
     the_course.section_number = params.fetch("query_section_number")
     the_course.program = params.fetch("query_program")
-    the_course.comments_count = params.fetch("query_comments_count")
-    the_course.studygroups_count = params.fetch("query_studygroups_count")
 
     if the_course.valid?
       the_course.save
