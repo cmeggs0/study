@@ -1,0 +1,176 @@
+<div>
+  <div>
+    <h1>
+      Course #<%= @the_course.id %> details
+    </h1>
+
+    <div>
+      <div>
+        <a href="/courses">
+          Go back
+        </a>
+      </div>
+
+      <div>
+        <a href="/delete_course/<%= @the_course.id %>">
+          Delete course
+        </a>
+      </div>
+    </div>
+
+    <dl>
+      <dt>
+        Description
+      </dt>
+      <dd>
+        <%= @the_course.description %>
+      </dd>
+
+      <dt>
+        School
+      </dt>
+      <dd>
+        <%= @the_course.school_id %>
+      </dd>
+
+      <dt>
+        Schedule
+      </dt>
+      <dd>
+        <%= @the_course.schedule %>
+      </dd>
+
+      <dt>
+        Quarter
+      </dt>
+      <dd>
+        <%= @the_course.quarter %>
+      </dd>
+
+      <dt>
+        Title
+      </dt>
+      <dd>
+        <%= @the_course.title %>
+      </dd>
+
+      <dt>
+        Course number
+      </dt>
+      <dd>
+        <%= @the_course.course_number %>
+      </dd>
+
+      <dt>
+        Section number
+      </dt>
+      <dd>
+        <%= @the_course.section_number %>
+      </dd>
+
+      <dt>
+        Comments count
+      </dt>
+      <dd>
+        <%= @the_course.comments_count %>
+      </dd>
+
+      <dt>
+        Created at
+      </dt>
+      <dd>
+        <%= time_ago_in_words(@the_course.created_at) %> ago
+      </dd>
+
+      <dt>
+        Updated at
+      </dt>
+      <dd>
+        <%= time_ago_in_words(@the_course.updated_at) %> ago
+      </dd>
+    </dl>
+  </div>
+</div>
+
+<hr>
+
+
+<div>
+  <div>
+    <h2>
+      Edit course
+    </h2>
+
+    <form action="/modify_course/<%= @the_course.id %>"  method="post" >
+      <div>
+        <label for="description_box">
+          Description
+        </label>
+
+        <input type="text" id="description_box" name="query_description" value="<%= @the_course.description %>">
+      </div>
+
+      <div>
+        <label for="school_id_box">
+          School
+        </label>
+
+        <input type="text" id="school_id_box" name="query_school_id" value="<%= @the_course.school_id %>">
+      </div>
+
+      <div>
+        <label for="schedule_box">
+          Schedule
+        </label>
+
+        <input type="time" id="schedule_box" name="query_schedule" value="<%= @the_course.schedule %>">
+      </div>
+
+      <div>
+        <label for="quarter_box">
+          Quarter
+        </label>
+
+        <input type="text" id="quarter_box" name="query_quarter" value="<%= @the_course.quarter %>">
+      </div>
+
+      <div>
+        <label for="title_box">
+          Title
+        </label>
+
+        <input type="text" id="title_box" name="query_title" value="<%= @the_course.title %>">
+      </div>
+
+      <div>
+        <label for="course_number_box">
+          Course number
+        </label>
+
+        <input type="text" id="course_number_box" name="query_course_number" value="<%= @the_course.course_number %>">
+      </div>
+
+      <div>
+        <label for="section_number_box">
+          Section number
+        </label>
+
+        <input type="text" id="section_number_box" name="query_section_number" value="<%= @the_course.section_number %>">
+      </div>
+
+      <div>
+        <label for="comments_count_box">
+          Comments count
+        </label>
+
+        <input type="text" id="comments_count_box" name="query_comments_count" value="<%= @the_course.comments_count %>">
+      </div>
+
+      <button>
+        Update course
+      </button>
+    </form>
+  </div>
+</div>
+
+<hr>

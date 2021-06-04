@@ -1,0 +1,102 @@
+<div>
+  <div>
+    <h1>
+      List of all enrollments
+    </h1>
+  </div>
+</div>
+
+<hr>
+
+<div>
+  <div>
+    <h2>
+      Add a new enrollment
+    </h2>
+
+    <form action="/insert_enrollment" method="post">
+      <div>
+        <label for="school_id_box">
+          School
+        </label>
+
+        <input type="text" id="school_id_box" name="query_school_id">
+      </div>
+
+      <div>
+        <label for="user_id_box">
+          User
+        </label>
+
+        <input type="text" id="user_id_box" name="query_user_id">
+      </div>
+
+      <button>
+        Create enrollment
+      </button>
+    </form>
+  </div>
+</div>
+
+<hr>
+<div>
+  <div>
+    <table>
+      <tr>
+        <th>
+          ID
+        </th>
+
+        <th>
+          School
+        </th>
+
+        <th>
+          User
+        </th>
+
+        <th>
+          Created at
+        </th>
+
+        <th>
+          Updated at
+        </th>
+
+        <th>
+        </th>
+      </tr>
+
+      <% @list_of_enrollments.each do |an_enrollment| %>
+      <tr>
+        <td>
+          <%= an_enrollment.id %>
+        </td>
+
+        <td>
+          <%= an_enrollment.school_id %>
+        </td>
+
+        <td>
+          <%= an_enrollment.user_id %>
+        </td>
+
+        <td>
+          <%= time_ago_in_words(an_enrollment.created_at) %> ago
+        </td>
+        <td>
+          <%= time_ago_in_words(an_enrollment.updated_at) %> ago
+        </td>
+
+        <td>
+          <a href="/enrollments/<%= an_enrollment.id %>">
+            Show details
+          </a>
+        </td>
+      </tr>
+      <% end %>
+    </table>
+  </div>
+</div>
+
+<hr>

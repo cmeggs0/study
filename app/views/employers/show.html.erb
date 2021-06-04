@@ -1,0 +1,86 @@
+<div>
+  <div>
+    <h1>
+      Employer #<%= @the_employer.id %> details
+    </h1>
+
+    <div>
+      <div>
+        <a href="/employers">
+          Go back
+        </a>
+      </div>
+
+      <div>
+        <a href="/delete_employer/<%= @the_employer.id %>">
+          Delete employer
+        </a>
+      </div>
+    </div>
+
+    <dl>
+      <dt>
+        Professor
+      </dt>
+      <dd>
+        <%= @the_employer.professor_id %>
+      </dd>
+
+      <dt>
+        School
+      </dt>
+      <dd>
+        <%= @the_employer.school_id %>
+      </dd>
+
+      <dt>
+        Created at
+      </dt>
+      <dd>
+        <%= time_ago_in_words(@the_employer.created_at) %> ago
+      </dd>
+
+      <dt>
+        Updated at
+      </dt>
+      <dd>
+        <%= time_ago_in_words(@the_employer.updated_at) %> ago
+      </dd>
+    </dl>
+  </div>
+</div>
+
+<hr>
+
+
+<div>
+  <div>
+    <h2>
+      Edit employer
+    </h2>
+
+    <form action="/modify_employer/<%= @the_employer.id %>"  method="post" >
+      <div>
+        <label for="professor_id_box">
+          Professor
+        </label>
+
+        <input type="text" id="professor_id_box" name="query_professor_id" value="<%= @the_employer.professor_id %>">
+      </div>
+
+      <div>
+        <label for="school_id_box">
+          School
+        </label>
+
+        <input type="text" id="school_id_box" name="query_school_id" value="<%= @the_employer.school_id %>">
+      </div>
+
+      <button>
+        Update employer
+      </button>
+    </form>
+  </div>
+</div>
+
+<hr>

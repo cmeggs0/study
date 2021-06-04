@@ -1,0 +1,102 @@
+<div>
+  <div>
+    <h1>
+      List of all employers
+    </h1>
+  </div>
+</div>
+
+<hr>
+
+<div>
+  <div>
+    <h2>
+      Add a new employer
+    </h2>
+
+    <form action="/insert_employer" method="post">
+      <div>
+        <label for="professor_id_box">
+          Professor
+        </label>
+
+        <input type="text" id="professor_id_box" name="query_professor_id">
+      </div>
+
+      <div>
+        <label for="school_id_box">
+          School
+        </label>
+
+        <input type="text" id="school_id_box" name="query_school_id">
+      </div>
+
+      <button>
+        Create employer
+      </button>
+    </form>
+  </div>
+</div>
+
+<hr>
+<div>
+  <div>
+    <table>
+      <tr>
+        <th>
+          ID
+        </th>
+
+        <th>
+          Professor
+        </th>
+
+        <th>
+          School
+        </th>
+
+        <th>
+          Created at
+        </th>
+
+        <th>
+          Updated at
+        </th>
+
+        <th>
+        </th>
+      </tr>
+
+      <% @list_of_employers.each do |an_employer| %>
+      <tr>
+        <td>
+          <%= an_employer.id %>
+        </td>
+
+        <td>
+          <%= an_employer.professor_id %>
+        </td>
+
+        <td>
+          <%= an_employer.school_id %>
+        </td>
+
+        <td>
+          <%= time_ago_in_words(an_employer.created_at) %> ago
+        </td>
+        <td>
+          <%= time_ago_in_words(an_employer.updated_at) %> ago
+        </td>
+
+        <td>
+          <a href="/employers/<%= an_employer.id %>">
+            Show details
+          </a>
+        </td>
+      </tr>
+      <% end %>
+    </table>
+  </div>
+</div>
+
+<hr>

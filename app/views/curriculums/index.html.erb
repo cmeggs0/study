@@ -1,0 +1,102 @@
+<div>
+  <div>
+    <h1>
+      List of all curriculums
+    </h1>
+  </div>
+</div>
+
+<hr>
+
+<div>
+  <div>
+    <h2>
+      Add a new curriculum
+    </h2>
+
+    <form action="/insert_curriculum" method="post">
+      <div>
+        <label for="professor_id_box">
+          Professor
+        </label>
+
+        <input type="text" id="professor_id_box" name="query_professor_id">
+      </div>
+
+      <div>
+        <label for="course_id_box">
+          Course
+        </label>
+
+        <input type="text" id="course_id_box" name="query_course_id">
+      </div>
+
+      <button>
+        Create curriculum
+      </button>
+    </form>
+  </div>
+</div>
+
+<hr>
+<div>
+  <div>
+    <table>
+      <tr>
+        <th>
+          ID
+        </th>
+
+        <th>
+          Professor
+        </th>
+
+        <th>
+          Course
+        </th>
+
+        <th>
+          Created at
+        </th>
+
+        <th>
+          Updated at
+        </th>
+
+        <th>
+        </th>
+      </tr>
+
+      <% @list_of_curriculums.each do |a_curriculum| %>
+      <tr>
+        <td>
+          <%= a_curriculum.id %>
+        </td>
+
+        <td>
+          <%= a_curriculum.professor_id %>
+        </td>
+
+        <td>
+          <%= a_curriculum.course_id %>
+        </td>
+
+        <td>
+          <%= time_ago_in_words(a_curriculum.created_at) %> ago
+        </td>
+        <td>
+          <%= time_ago_in_words(a_curriculum.updated_at) %> ago
+        </td>
+
+        <td>
+          <a href="/curriculums/<%= a_curriculum.id %>">
+            Show details
+          </a>
+        </td>
+      </tr>
+      <% end %>
+    </table>
+  </div>
+</div>
+
+<hr>

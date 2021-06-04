@@ -1,0 +1,86 @@
+<div>
+  <div>
+    <h1>
+      Curriculum #<%= @the_curriculum.id %> details
+    </h1>
+
+    <div>
+      <div>
+        <a href="/curriculums">
+          Go back
+        </a>
+      </div>
+
+      <div>
+        <a href="/delete_curriculum/<%= @the_curriculum.id %>">
+          Delete curriculum
+        </a>
+      </div>
+    </div>
+
+    <dl>
+      <dt>
+        Professor
+      </dt>
+      <dd>
+        <%= @the_curriculum.professor_id %>
+      </dd>
+
+      <dt>
+        Course
+      </dt>
+      <dd>
+        <%= @the_curriculum.course_id %>
+      </dd>
+
+      <dt>
+        Created at
+      </dt>
+      <dd>
+        <%= time_ago_in_words(@the_curriculum.created_at) %> ago
+      </dd>
+
+      <dt>
+        Updated at
+      </dt>
+      <dd>
+        <%= time_ago_in_words(@the_curriculum.updated_at) %> ago
+      </dd>
+    </dl>
+  </div>
+</div>
+
+<hr>
+
+
+<div>
+  <div>
+    <h2>
+      Edit curriculum
+    </h2>
+
+    <form action="/modify_curriculum/<%= @the_curriculum.id %>"  method="post" >
+      <div>
+        <label for="professor_id_box">
+          Professor
+        </label>
+
+        <input type="text" id="professor_id_box" name="query_professor_id" value="<%= @the_curriculum.professor_id %>">
+      </div>
+
+      <div>
+        <label for="course_id_box">
+          Course
+        </label>
+
+        <input type="text" id="course_id_box" name="query_course_id" value="<%= @the_curriculum.course_id %>">
+      </div>
+
+      <button>
+        Update curriculum
+      </button>
+    </form>
+  </div>
+</div>
+
+<hr>

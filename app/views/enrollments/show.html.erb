@@ -1,0 +1,86 @@
+<div>
+  <div>
+    <h1>
+      Enrollment #<%= @the_enrollment.id %> details
+    </h1>
+
+    <div>
+      <div>
+        <a href="/enrollments">
+          Go back
+        </a>
+      </div>
+
+      <div>
+        <a href="/delete_enrollment/<%= @the_enrollment.id %>">
+          Delete enrollment
+        </a>
+      </div>
+    </div>
+
+    <dl>
+      <dt>
+        School
+      </dt>
+      <dd>
+        <%= @the_enrollment.school_id %>
+      </dd>
+
+      <dt>
+        User
+      </dt>
+      <dd>
+        <%= @the_enrollment.user_id %>
+      </dd>
+
+      <dt>
+        Created at
+      </dt>
+      <dd>
+        <%= time_ago_in_words(@the_enrollment.created_at) %> ago
+      </dd>
+
+      <dt>
+        Updated at
+      </dt>
+      <dd>
+        <%= time_ago_in_words(@the_enrollment.updated_at) %> ago
+      </dd>
+    </dl>
+  </div>
+</div>
+
+<hr>
+
+
+<div>
+  <div>
+    <h2>
+      Edit enrollment
+    </h2>
+
+    <form action="/modify_enrollment/<%= @the_enrollment.id %>"  method="post" >
+      <div>
+        <label for="school_id_box">
+          School
+        </label>
+
+        <input type="text" id="school_id_box" name="query_school_id" value="<%= @the_enrollment.school_id %>">
+      </div>
+
+      <div>
+        <label for="user_id_box">
+          User
+        </label>
+
+        <input type="text" id="user_id_box" name="query_user_id" value="<%= @the_enrollment.user_id %>">
+      </div>
+
+      <button>
+        Update enrollment
+      </button>
+    </form>
+  </div>
+</div>
+
+<hr>
