@@ -19,8 +19,11 @@ class StudygroupsController < ApplicationController
 
   def create
     the_studygroup = Studygroup.new
-    the_studygroup.course_id = params.fetch("query_course_id")
-    the_studygroup.timeblock = params.fetch("query_timeblock")
+    the_studygroup.course_id      = params.fetch("query_course_id")
+    the_studygroup.timeblock      = params.fetch("query_timeblock")
+    the_studygroup.name           = params.fetch("query_name")
+    the_studygroup.max_members    = params.fetch("query_max_members")
+    the_studygroup.originator_id  = @current_user.id
 
     if the_studygroup.valid?
       the_studygroup.save
