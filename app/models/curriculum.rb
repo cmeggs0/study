@@ -9,4 +9,7 @@
 #  professor_id :integer
 #
 class Curriculum < ApplicationRecord
+  # Direct Associations
+  belongs_to :course, required: false, class_name: "Course", foreign_key: "course_id"
+  belongs_to :professor, required: false, class_name: "Professor", foreign_key: "professor_id"
 end

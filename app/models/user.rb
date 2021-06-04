@@ -15,4 +15,16 @@ class User < ApplicationRecord
   validates :email, :uniqueness => { :case_sensitive => false }
   validates :email, :presence => true
   has_secure_password
+
+  # Direct Associations
+  has_many  :courseloads, class_name: "Courseload", foreign_key: "user_id", dependent: :destroy
+  has_many  :enrollments, class_name: "Enrollment", foreign_key: "user_id", dependent: :destroy
+  has_many  :memberships, class_name: "Member", foreign_key: "user_id", dependent: :destroy
+  has_many  :sgcomments, class_name: "Sgcomment", foreign_key: "user_id", dependent: :destroy
+  has_many  :comments, class_name: "Comment", foreign_key: "user_id", dependent: :destroy
+
+  #Indirect Associations
+  has_many :courses, through: :courseloads, source: :course
+  has_many :schools, through: :enrollments, source: :school
+  has_many :studygroups, through: :memberships, source: :studygroup
 end

@@ -9,4 +9,7 @@
 #  user_id    :integer
 #
 class Enrollment < ApplicationRecord
+  # Direct Associations
+  belongs_to :professor, required: false, class_name: "Professor", foreign_key: "professor_id"
+  belongs_to :school, required: false, class_name: "School", foreign_key: "school_id"
 end

@@ -1,0 +1,615 @@
+quarter,course_number,section_number,title,schedule,description,program,school_id
+Spring 2021,28620,1,Crony Capitalism,TH 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/luigi.zingales/28620_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,30000,1,Financial Accounting,M 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/valeri.nikolaev/30000_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,30000,2,Financial Accounting,M 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/valeri.nikolaev/30000_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,30000,3,Financial Accounting,T 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/joao.granja/30000_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,30000,4,Financial Accounting,W 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/joao.granja/30000_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,30000,5,Financial Accounting,F 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/anastasia.zakolyukina/30000_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,30000,6,Financial Accounting,F 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/anastasia.zakolyukina/30000_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,30000,7,Financial Accounting,T 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/joao.granja/30000_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,30000,81,Financial Accounting,M 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/valeri.nikolaev/30000_syllabus.pdf,Evening MBA,1
+Autumn 2020,30000,82,Financial Accounting,W 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/joao.granja/30000_syllabus.pdf,Evening MBA,1
+Autumn 2020,30000,85,Financial Accounting,S 9:00AM-12:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/anastasia.zakolyukina/30000_syllabus.pdf,Weekend MBA,1
+Winter 2021,30000,1,Financial Accounting,W 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/thomas.rauter/30000_syllabus.pdf,Full-Time MBA,1
+Winter 2021,30000,81,Financial Accounting,W 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/thomas.rauter/30000_syllabus.pdf,Evening MBA,1
+Spring 2021,30000,81,Financial Accounting,F 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/rimmy.tomy/30000_syllabus.pdf,Evening MBA,1
+Spring 2021,30000,82,Financial Accounting,W 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/charles.mcclure/30000_syllabus.pdf,Evening MBA,1
+Spring 2021,30000,83,Financial Accounting,TH 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/charles.mcclure/30000_syllabus.pdf,Evening MBA,1
+Spring 2021,30000,85,Financial Accounting,S 9:00AM-12:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/rimmy.tomy/30000_syllabus.pdf,Weekend MBA,1
+Spring 2021,30000,86,Financial Accounting,S 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/rimmy.tomy/30000_syllabus.pdf,Weekend MBA,1
+Summer 2021,30000,81,Financial Accounting,TH 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/jdouglas.hanna/30000_syllabus.pdf,Evening MBA,1
+Summer 2021,30000,85,Financial Accounting,S 9:00AM-12:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/jdouglas.hanna/30000_syllabus.pdf,Weekend MBA,1
+Winter 2021,30001,1,Cost Analysis and Internal Controls,M 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/john.gallemore/30001_syllabus.pdf,Full-Time MBA,1
+Winter 2021,30001,81,Cost Analysis and Internal Controls,M 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/john.gallemore/30001_syllabus.pdf,Evening MBA,1
+Winter 2021,30001,85,Cost Analysis and Internal Controls,S 9:00AM-12:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/john.gallemore/30001_syllabus.pdf,Weekend MBA,1
+Spring 2021,30001,1,Cost Analysis and Internal Controls,T 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/christopher.stewart/30001_syllabus.pdf,Full-Time MBA,1
+Spring 2021,30001,81,Cost Analysis and Internal Controls,T 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/christopher.stewart/30001_syllabus.pdf,Evening MBA,1
+Summer 2021,30001,81,Cost Analysis and Internal Controls,T 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/eva.labro/30001_syllabus.pdf,Evening MBA,1
+Summer 2021,30001,82,Cost Analysis and Internal Controls,W 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/eva.labro/30001_syllabus.pdf,Evening MBA,1
+Autumn 2020,30116,1,Accounting and Financial Analysis ,M 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/hans.christensen/30116_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,30116,2,Accounting and Financial Analysis ,T 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/hans.christensen/30116_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,30116,81,Accounting and Financial Analysis ,M 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/hans.christensen/30116_syllabus.pdf,Evening MBA,1
+Winter 2021,30116,1,Accounting and Financial Analysis ,W 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/leonard.soffer/30116_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,30118,1,Taxes and Business Strategy,W 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/merle.erickson/30118_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,30118,2,Taxes and Business Strategy,TH 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/merle.erickson/30118_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,30118,81,Taxes and Business Strategy,W 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/merle.erickson/30118_syllabus.pdf,Evening MBA,1
+Spring 2021,30118,1,Taxes and Business Strategy,W 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/ira.weiss/30118_syllabus.pdf,Full-Time MBA,1
+Spring 2021,30118,81,Taxes and Business Strategy,W 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/ira.weiss/30118_syllabus.pdf,Evening MBA,1
+Spring 2021,30120,1,"Accounting, Economic, and Regulatory Issues in Complex Deals ",W 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/mark.maffett/30120_syllabus.pdf,Full-Time MBA,1
+Spring 2021,30120,81,"Accounting, Economic, and Regulatory Issues in Complex Deals ",W 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/mark.maffett/30120_syllabus.pdf,Evening MBA,1
+Winter 2021,30121,1,Accounting for Entrepreneurship:  From Start-Up through IPO,T 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/ira.weiss/30121_syllabus.pdf,Full-Time MBA,1
+Winter 2021,30121,2,Accounting for Entrepreneurship:  From Start-Up through IPO,W 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/ira.weiss/30121_syllabus.pdf,Full-Time MBA,1
+Winter 2021,30121,81,Accounting for Entrepreneurship:  From Start-Up through IPO,T 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/ira.weiss/30121_syllabus.pdf,Evening MBA,1
+Spring 2021,30121,81,Accounting for Entrepreneurship:  From Start-Up through IPO,TH 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/philip.berger/30121_syllabus.pdf,Evening MBA,1
+Spring 2021,30121,82,Accounting for Entrepreneurship:  From Start-Up through IPO,F 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/philip.berger/30121_syllabus.pdf,Evening MBA,1
+Spring 2021,30121,85,Accounting for Entrepreneurship:  From Start-Up through IPO,S 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/philip.berger/30121_syllabus.pdf,Weekend MBA,1
+Autumn 2020,30130,1,Financial Statement Analysis,W 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/michael.minnis/30130_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,30130,2,Financial Statement Analysis,T 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/michael.minnis/30130_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,30130,81,Financial Statement Analysis,W 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/michael.minnis/30130_syllabus.pdf,Evening MBA,1
+Winter 2021,30130,1,Financial Statement Analysis,M 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/abbie.smith/30130_syllabus.pdf,Full-Time MBA,1
+Winter 2021,30130,81,Financial Statement Analysis,F 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/abbie.smith/30130_syllabus.pdf,Evening MBA,1
+Winter 2021,30130,85,Financial Statement Analysis,S 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/abbie.smith/30130_syllabus.pdf,Weekend MBA,1
+Spring 2021,30130,1,Financial Statement Analysis,F 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/john.hand/30130_syllabus.pdf,Full-Time MBA,1
+Spring 2021,30130,81,Financial Statement Analysis,F 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/john.hand/30130_syllabus.pdf,Evening MBA,1
+Summer 2021,30130,85,Financial Statement Analysis,S 9:00AM-12:00PM,0,Weekend MBA,1
+Winter 2021,30131,1,Advanced Financial Analysis and Valuation for Global Firms,T 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/christian.leuz/30131_syllabus.pdf,Full-Time MBA,1
+Winter 2021,30131,2,Advanced Financial Analysis and Valuation for Global Firms,W 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/christian.leuz/30131_syllabus.pdf,Full-Time MBA,1
+Winter 2021,30131,81,Advanced Financial Analysis and Valuation for Global Firms,W 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/christian.leuz/30131_syllabus.pdf,Evening MBA,1
+Autumn 2020,30600,60,Workshop in Accounting Research,TH 1:20PM-2:50PM,0,Workshop,1
+Winter 2021,30600,60,Workshop in Accounting Research,TH 1:20PM-2:50PM,0,Workshop,1
+Spring 2021,30600,60,Workshop in Accounting Research,TH 1:20PM-2:50PM,0,Workshop,1
+Summer 2021,30830,88,Financial Statement Analysis,EMBA1 7:00AM-10:00AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/michael.minnis/30830_syllabus.pdf,Executive MBA North America,1
+Winter 2021,30901,50,Economic Modeling of Accounting Issues,T 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/haresh.sapra/30901_syllabus.pdf,PhD Program,1
+Spring 2021,30902,50,Empirical Research in Accounting,T 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/ray.ball/30902_syllabus.pdf,PhD Program,1
+Winter 2021,30903,50,Topics in Empirical Accounting Research,TH 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/philip.berger/30903_syllabus.pdf,PhD Program,1
+Autumn 2020,31401,1,Interpersonal Dynamics,T 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/darryl.pure/31401_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,31401,2,Interpersonal Dynamics,W 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/christine.carpenter/31401_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,31401,3,Interpersonal Dynamics,W 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/richard.volden/31401_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,31401,81,Interpersonal Dynamics,M 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/lisa.stefanac/31401_syllabus.pdf,Evening MBA,1
+Winter 2021,31401,1,Interpersonal Dynamics,T 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/darryl.pure/31401_syllabus.pdf,Full-Time MBA,1
+Winter 2021,31401,2,Interpersonal Dynamics,W 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/christine.carpenter/31401_syllabus.pdf,Full-Time MBA,1
+Winter 2021,31401,3,Interpersonal Dynamics,M 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/lisa.stefanac/31401_syllabus.pdf,Full-Time MBA,1
+Winter 2021,31401,81,Interpersonal Dynamics,TH 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/richard.volden/31401_syllabus.pdf,Evening MBA,1
+Spring 2021,31401,1,Interpersonal Dynamics,TH 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/darryl.pure/31401_syllabus.pdf,Full-Time MBA,1
+Spring 2021,31401,2,Interpersonal Dynamics,W 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/christine.carpenter/31401_syllabus.pdf,Full-Time MBA,1
+Spring 2021,31401,3,Interpersonal Dynamics,M 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/britt.raphling/31401_syllabus.pdf,Full-Time MBA,1
+Spring 2021,31401,81,Interpersonal Dynamics,M 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/lisa.stefanac/31401_syllabus.pdf,Evening MBA,1
+Autumn 2020,31402,81,Leadership Practicum,T 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/chris.collins/31402_syllabus.pdf,Evening MBA,1
+Winter 2021,31402,1,Leadership Practicum,W 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/chris.collins/31402_syllabus.pdf,Full-Time MBA,1
+Spring 2021,31402,1,Leadership Practicum,W 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/chris.collins/31402_syllabus.pdf,Full-Time MBA,1
+Winter 2021,31403,1,Leadership Studio,T 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/harry.davis/31403_syllabus.pdf,Full-Time MBA,1
+Winter 2021,31403,81,Leadership Studio,T 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/harry.davis/31403_syllabus.pdf,Evening MBA,1
+Spring 2021,31403,1,Leadership Studio,T 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/harry.davis/31403_syllabus.pdf,Full-Time MBA,1
+Spring 2021,31403,81,Leadership Studio,T 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/harry.davis/31403_syllabus.pdf,Evening MBA,1
+Spring 2021,31702,1,Leadership Effectiveness and Development (LEAD) Lab ,F 12:00PM-4:30PM,0,Full-Time MBA,1
+Autumn 2020,32100,81,Data Analysis with R and Python,T 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/lara.kattan/32100_syllabus.pdf,Evening MBA,1
+Autumn 2020,32100,85,Data Analysis with R and Python,S 9:00AM-12:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/lara.kattan/32100_syllabus.pdf,Weekend MBA,1
+Spring 2021,32100,1,Data Analysis with R and Python,F 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/xikuan.wang/32100_syllabus.pdf,Full-Time MBA,1
+Spring 2021,32100,2,Data Analysis with R and Python,TH 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/haihao.lu/32100_syllabus.pdf,Full-Time MBA,1
+Spring 2021,32100,81,Data Analysis with R and Python,F 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/xikuan.wang/32100_syllabus.pdf,Evening MBA,1
+Spring 2021,32100,85,Data Analysis with R and Python,S 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/xikuan.wang/32100_syllabus.pdf,Weekend MBA,1
+Winter 2021,32200,1,Artificial Intelligence,M 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/sendhil.mullainathan/32200_syllabus.pdf,Full-Time MBA,1
+Winter 2021,32200,81,Artificial Intelligence,M 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/sendhil.mullainathan/32200_syllabus.pdf,Evening MBA,1
+Autumn 2020,33001,1,Microeconomics,T 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/rebecca.dizon-ross/33001_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,33001,2,Microeconomics,W 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/rebecca.dizon-ross/33001_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,33001,3,Microeconomics,F 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/alexander.frankel/33001_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,33001,4,Microeconomics,M 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/richard.hornbeck/33001_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,33001,5,Microeconomics,M 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/richard.hornbeck/33001_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,33001,6,Microeconomics,W 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/michael.gibbs/33001_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,33001,7,Microeconomics,TH 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/michael.gibbs/33001_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,33001,81,Microeconomics,T 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/rebecca.dizon-ross/33001_syllabus.pdf,Evening MBA,1
+Autumn 2020,33001,82,Microeconomics,F 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/alexander.frankel/33001_syllabus.pdf,Evening MBA,1
+Autumn 2020,33001,83,Microeconomics,M 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/richard.hornbeck/33001_syllabus.pdf,Evening MBA,1
+Autumn 2020,33001,85,Microeconomics,S 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/alexander.frankel/33001_syllabus.pdf,Weekend MBA,1
+Winter 2021,33001,1,Microeconomics,W 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/andrew.mcclellan/33001_syllabus.pdf,Full-Time MBA,1
+Winter 2021,33001,81,Microeconomics,W 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/andrew.mcclellan/33001_syllabus.pdf,Evening MBA,1
+Winter 2021,33001,85,Microeconomics,S 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/andrew.mcclellan/33001_syllabus.pdf,Weekend MBA,1
+Spring 2021,33001,1,Microeconomics,TH 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/daniel.rappoport/33001_syllabus.pdf,Full-Time MBA,1
+Spring 2021,33001,81,Microeconomics,TH 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/daniel.rappoport/33001_syllabus.pdf,Evening MBA,1
+Spring 2021,33001,85,Microeconomics,S 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/daniel.rappoport/33001_syllabus.pdf,Weekend MBA,1
+Summer 2021,33001,81,Microeconomics,T 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/ram.shivakumar/33001_syllabus.pdf,Evening MBA,1
+Summer 2021,33001,85,Microeconomics,S 9:00AM-12:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/ram.shivakumar/33001_syllabus.pdf,Weekend MBA,1
+Spring 2021,33002,1,Accelerated Microeconomics,W 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/robert.topel/33002_syllabus.pdf,Full-Time MBA,1
+Spring 2021,33002,81,Accelerated Microeconomics,W 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/robert.topel/33002_syllabus.pdf,Evening MBA,1
+Spring 2021,33032,1,Managing the Workplace,F 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/canice.prendergast/33032_syllabus.pdf,Full-Time MBA,1
+Spring 2021,33032,81,Managing the Workplace,TH 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/canice.prendergast/33032_syllabus.pdf,Evening MBA,1
+Spring 2021,33032,85,Managing the Workplace,S 9:00AM-12:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/canice.prendergast/33032_syllabus.pdf,Weekend MBA,1
+Summer 2021,33032,81,Managing the Workplace,T 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/canice.prendergast/33032_syllabus.pdf,Evening MBA,1
+Autumn 2020,33040,1,Macroeconomics,W 10:10AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/joseph.vavra/33040_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,33040,2,Macroeconomics,W 12:00PM-1:20PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/joseph.vavra/33040_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,33040,81,Macroeconomics,W 7:00PM-8:20PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/joseph.vavra/33040_syllabus.pdf,Evening MBA,1
+Winter 2021,33040,1,Macroeconomics,F 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/erik.hurst/33040_syllabus.pdf,Full-Time MBA,1
+Winter 2021,33040,2,Macroeconomics,T 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/john.huizinga/33040_syllabus.pdf,Full-Time MBA,1
+Winter 2021,33040,81,Macroeconomics,W 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/john.huizinga/33040_syllabus.pdf,Evening MBA,1
+Winter 2021,33040,85,Macroeconomics,S 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/erik.hurst/33040_syllabus.pdf,Weekend MBA,1
+Spring 2021,33040,1,Macroeconomics,TH 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/veronica.guerrieri/33040_syllabus.pdf,Full-Time MBA,1
+Spring 2021,33040,2,Macroeconomics,TH 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/veronica.guerrieri/33040_syllabus.pdf,Full-Time MBA,1
+Summer 2021,33040,81,Macroeconomics,T 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/steven.davis/33040_syllabus.pdf,Evening MBA,1
+Summer 2021,33040,82,Macroeconomics,W 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/steven.davis/33040_syllabus.pdf,Evening MBA,1
+Autumn 2020,33101,1,Advanced Microeconomic Analysis,W 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/kevin.murphy/33101_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,33101,81,Advanced Microeconomic Analysis,T 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/kevin.murphy/33101_syllabus.pdf,Evening MBA,1
+Winter 2021,33112,1,Business in Historical Perspective,M 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/richard.hornbeck/33112_syllabus.pdf,Full-Time MBA,1
+Winter 2021,33112,81,Business in Historical Perspective,M 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/richard.hornbeck/33112_syllabus.pdf,Evening MBA,1
+Spring 2021,33222,81,Sports Analytics,T 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/john.huizinga/33222_syllabus.pdf,Evening MBA,1
+Summer 2021,33301,81,"Management, Unions, and Collective Bargaining",T 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/richard.jenkins/33301_syllabus.pdf,Evening MBA,1
+Spring 2021,33305,1,The Firm and the Non-Market Environment,TH 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/marianne.bertrand/33305_syllabus.pdf,Full-Time MBA,1
+Spring 2021,33305,81,The Firm and the Non-Market Environment,TH 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/marianne.bertrand/33305_syllabus.pdf,Evening MBA,1
+Spring 2021,33305,85,The Firm and the Non-Market Environment,S 9:00AM-12:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/marianne.bertrand/33305_syllabus.pdf,Weekend MBA,1
+Autumn 2020,33310,81,Employment Law for Entrepreneurs and Managers,TH 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/david.pogrund/33310_syllabus.pdf,Evening MBA,1
+Spring 2021,33314,1,Big Problems,T 1:35PM-4:35PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/kevin.murphy/33314_syllabus.pdf,Full-Time MBA,1
+Winter 2021,33401,1,Money and Banking,TH 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/kilian.huber/33401_syllabus.pdf,Full-Time MBA,1
+Winter 2021,33401,81,Money and Banking,TH 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/kilian.huber/33401_syllabus.pdf,Evening MBA,1
+Winter 2021,33401,85,Money and Banking,S 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/kilian.huber/33401_syllabus.pdf,Weekend MBA,1
+Spring 2021,33403,1,Advanced Macroeconomics,T 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/anil.kashyap/33403_syllabus.pdf,Full-Time MBA,1
+Spring 2021,33403,81,Advanced Macroeconomics,T 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/anil.kashyap/33403_syllabus.pdf,Evening MBA,1
+Winter 2021,33450,1,Real Estate Investments I,TH 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/joseph.pagliari/33450_syllabus.pdf,Full-Time MBA,1
+Winter 2021,33450,81,Real Estate Investments I,TH 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/joseph.pagliari/33450_syllabus.pdf,Evening MBA,1
+Winter 2021,33450,85,Real Estate Investments I,S 9:00AM-12:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/joseph.pagliari/33450_syllabus.pdf,Weekend MBA,1
+Spring 2021,33451,81,Real Estate Investments II,TH 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/joseph.pagliari/33451_syllabus.pdf,Evening MBA,1
+Winter 2021,33471,1,"Business, Politics, and Ethics",T 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/brian.barry/33471_syllabus.pdf,Full-Time MBA,1
+Winter 2021,33471,81,"Business, Politics, and Ethics",T 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/brian.barry/33471_syllabus.pdf,Evening MBA,1
+Winter 2021,33471,85,"Business, Politics, and Ethics",S 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/brian.barry/33471_syllabus.pdf,Weekend MBA,1
+Spring 2021,33471,1,"Business, Politics, and Ethics",T 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/brian.barry/33471_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,33501,1,International Commercial Policy,M 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/rodrigo.adao/33501_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,33501,2,International Commercial Policy,TH 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/rodrigo.adao/33501_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,33501,81,International Commercial Policy,TH 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/rodrigo.adao/33501_syllabus.pdf,Evening MBA,1
+Autumn 2020,33502,1,International Financial Policy,T 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/brent.neiman/33502_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,33502,81,International Financial Policy,T 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/brent.neiman/33502_syllabus.pdf,Evening MBA,1
+Autumn 2020,33502,85,International Financial Policy,S 9:00AM-12:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/brent.neiman/33502_syllabus.pdf,Weekend MBA,1
+Spring 2021,33502,1,International Financial Policy,TH 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/rohan.kekre/33502_syllabus.pdf,Full-Time MBA,1
+Spring 2021,33502,81,International Financial Policy,TH 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/rohan.kekre/33502_syllabus.pdf,Evening MBA,1
+Winter 2021,33503,1,Managing the Firm in the Global Economy,TH 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/jonathan.dingel/33503_syllabus.pdf,Full-Time MBA,1
+Winter 2021,33503,81,Managing the Firm in the Global Economy,TH 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/jonathan.dingel/33503_syllabus.pdf,Evening MBA,1
+Autumn 2020,33520,1,The Wealth of Nations,M 1:30PM-3:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/chang-tai.hsieh/33520_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,33520,81,The Wealth of Nations,T 6:00PM-7:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/chang-tai.hsieh/33520_syllabus.pdf,Evening MBA,1
+Autumn 2020,33520,85,The Wealth of Nations,S 1:30PM-3:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/chang-tai.hsieh/33520_syllabus.pdf,Weekend MBA,1
+Autumn 2020,33610,60,Applied Economics Workshop,W 1:20PM-2:50PM,0,Workshop,1
+Winter 2021,33610,60,Applied Economics Workshop,W 1:20PM-2:50PM,0,Workshop,1
+Spring 2021,33610,60,Applied Economics Workshop,W 1:20PM-2:50PM,0,Workshop,1
+Autumn 2020,33650,60,Workshop in Macro and International Economics,M 11:45AM-1:15PM,0,Workshop,1
+Winter 2021,33650,60,Workshop in Macro and International Economics,M 11:45AM-1:15PM,0,Workshop,1
+Spring 2021,33650,60,Workshop in Macro and International Economics,M 11:45AM-1:15PM,0,Workshop,1
+Spring 2021,33701,1,Energy Policy Practicum,W 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/robert.topel/33701_syllabus.pdf,Full-Time MBA,1
+Summer 2021,33882,88,"Money, Banking, and the Financial Crisis",EMBA1 7:00AM-10:00AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/randall.kroszner/33882_syllabus.pdf,Executive MBA North America,1
+Autumn 2020,33903,50,Microeconomics Reading and Research Seminar,M 3:15PM-6:15PM,0,PhD Program,1
+Winter 2021,33904,50,Microeconomics Reading and Research Seminar,T 3:15PM-6:15PM,0,PhD Program,1
+Spring 2021,33905,50,Microeconomics Reading and Research Seminar,T 3:15PM-6:15PM,0,PhD Program,1
+Autumn 2020,33914,50,Topics in Information Economics,T 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/emir.kamenica/33914_syllabus.pdf,PhD Program,1
+Winter 2021,33916,50,Consensus and Economics,W 9:00AM-12:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/jacob.leshno/33916_syllabus.pdf,PhD Program,1
+Winter 2021,33917,50,Applied Microeconomics in Economic History,F 9:00AM-12:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/richard.hornbeck/33917_syllabus.pdf,PhD Program,1
+Autumn 2020,33921,50,Advanced Industrial Organization I,F 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/chad.syverson/33921_syllabus.pdf,PhD Program,1
+Winter 2021,33922,50,Advanced Industrial Organization II,MW 11:30AM-12:50PM,0,PhD Program,1
+Spring 2021,33923,50,Advanced Industrial Organization III,T 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/dennis.carlton/33923_syllabus.pdf,PhD Program,1
+Autumn 2020,33946,50,International Macroeconomics and Trade,M 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/jonathan.dingel/33946_syllabus.pdf,PhD Program,1
+Spring 2021,33948,50,Financial Markets in the Macroeconomy,T 9:00AM-12:00PM,0,PhD Program,1
+Winter 2021,33949,50,Applied Macroeconomics: Heterogeneity and Macro,M 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/joseph.vavra/33949_syllabus.pdf,PhD Program,1
+Autumn 2020,34101,1,Entrepreneurial Finance and Private Equity,MW 10:10AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/steven.kaplan/34101_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,34101,2,Entrepreneurial Finance and Private Equity,MW 1:30PM-2:50PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/steven.kaplan/34101_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,34101,85,Entrepreneurial Finance and Private Equity,S 9:00AM-12:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/steven.kaplan/34101_syllabus.pdf,Weekend MBA,1
+Winter 2021,34101,1,Entrepreneurial Finance and Private Equity,F 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/scott.meadow/34101_syllabus.pdf,Full-Time MBA,1
+Winter 2021,34101,85,Entrepreneurial Finance and Private Equity,S 9:00AM-12:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/scott.meadow/34101_syllabus.pdf,Weekend MBA,1
+Spring 2021,34101,1,Entrepreneurial Finance and Private Equity,W 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/eric.zwick/34101_syllabus.pdf,Full-Time MBA,1
+Spring 2021,34101,81,Entrepreneurial Finance and Private Equity,W 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/eric.zwick/34101_syllabus.pdf,Evening MBA,1
+Summer 2021,34101,81,Entrepreneurial Finance and Private Equity,TH 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/scott.meadow/34101_syllabus.pdf,Evening MBA,1
+Autumn 2020,34102,1,New Venture Strategy,TH 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/james.schrager/34102_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,34102,81,New Venture Strategy,TH 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/gregory.bunch/34102_syllabus.pdf,Evening MBA,1
+Winter 2021,34102,1,New Venture Strategy,F 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/james.schrager/34102_syllabus.pdf,Full-Time MBA,1
+Winter 2021,34102,2,New Venture Strategy,TH 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/gregory.bunch/34102_syllabus.pdf,Full-Time MBA,1
+Winter 2021,34102,85,New Venture Strategy,S 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/james.schrager/34102_syllabus.pdf,Weekend MBA,1
+Spring 2021,34102,1,New Venture Strategy,TH 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/james.schrager/34102_syllabus.pdf,Full-Time MBA,1
+Spring 2021,34102,81,New Venture Strategy,TH 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/gregory.bunch/34102_syllabus.pdf,Evening MBA,1
+Summer 2021,34102,81,New Venture Strategy,M 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/james.schrager/34102_syllabus.pdf,Evening MBA,1
+Autumn 2020,34103,81,Building the New Venture,M 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/lindsey.lyman/34103_syllabus.pdf,Evening MBA,1
+Winter 2021,34103,1,Building the New Venture,TH 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/lindsey.lyman/34103_syllabus.pdf,Full-Time MBA,1
+Winter 2021,34103,85,Building the New Venture,S 9:00AM-12:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/lindsey.lyman/34103_syllabus.pdf,Weekend MBA,1
+Spring 2021,34104,1,Special Topics in Entrepreneurship: Developing a New Venture (New Venture Challenge),M 1:30PM-5:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/steven.kaplan/34104_syllabus.pdf,Full-Time MBA,1
+Spring 2021,34104,81,Special Topics in Entrepreneurship: Developing a New Venture (New Venture Challenge),M 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/mark.tebbe/34104_syllabus.pdf,Evening MBA,1
+Autumn 2020,34106,1,Commercializing Innovation: Tools to Research and Analyze Private Enterprises,TH 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/scott.meadow/34106_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,34106,81,Commercializing Innovation: Tools to Research and Analyze Private Enterprises,W 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/scott.meadow/34106_syllabus.pdf,Evening MBA,1
+Spring 2021,34106,1,Commercializing Innovation: Tools to Research and Analyze Private Enterprises,F 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/scott.meadow/34106_syllabus.pdf,Full-Time MBA,1
+Spring 2021,34106,85,Commercializing Innovation: Tools to Research and Analyze Private Enterprises,S 9:00AM-12:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/scott.meadow/34106_syllabus.pdf,Weekend MBA,1
+Spring 2021,34108,1,Innovation Leadership,M 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/lindsey.lyman/34108_syllabus.pdf,Full-Time MBA,1
+Spring 2021,34108,81,Innovation Leadership,M 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/lindsey.lyman/34108_syllabus.pdf,Evening MBA,1
+Autumn 2020,34111,1,Entrepreneurial Selling,T 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/michael.alter/34111_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,34111,81,Entrepreneurial Selling,T 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/michael.alter/34111_syllabus.pdf,Evening MBA,1
+Winter 2021,34111,1,Entrepreneurial Selling,T 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/michael.alter/34111_syllabus.pdf,Full-Time MBA,1
+Winter 2021,34111,81,Entrepreneurial Selling,T 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/michael.alter/34111_syllabus.pdf,Evening MBA,1
+Spring 2021,34111,1,Entrepreneurial Selling,T 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/michael.alter/34111_syllabus.pdf,Full-Time MBA,1
+Winter 2021,34113,81,Impact Investing,TH 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/robert.gertner/34113_syllabus.pdf,Evening MBA,1
+Spring 2021,34115,1,New Social Ventures,T 2:00PM-5:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/robert.gertner/34115_syllabus.pdf,Full-Time MBA,1
+Spring 2021,34115,81,New Social Ventures,T 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/robert.gertner/34115_syllabus.pdf,Evening MBA,1
+Winter 2021,34117,81,Social Entrepreneurship and Innovation,T 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/robert.gertner/34117_syllabus.pdf,Evening MBA,1
+Spring 2021,34206,1,"Women As CEOs, Entrepreneurs, Investors, Executives & Directors ",F 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/alyssa.rapp/34206_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,34302,81,Entrepreneurship through Acquisition,TH 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/brian.oconnor/34302_syllabus.pdf,Evening MBA,1
+Winter 2021,34302,1,Entrepreneurship through Acquisition,TH 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/brian.oconnor/34302_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,34305,1,Private Equity Transactions,T 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/stephen.ritchie/34305_syllabus.pdf,Full-Time MBA,1
+Winter 2021,34306,1,Entrepreneurship through Intellectual Property,T 1:30PM-4:30PM,0,Full-Time MBA,1
+Spring 2021,34702,81,Private Equity/Venture Capital Lab,T 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/ira.weiss/34702_syllabus.pdf,Evening MBA,1
+Spring 2021,34702,82,Private Equity/Venture Capital Lab,T 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/ira.weiss/34702_syllabus.pdf,Evening MBA,1
+Autumn 2020,34704,81,Real Estate Lab: Real Estate Challenge,T 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/joseph.pagliari/34704_syllabus.pdf,Evening MBA,1
+Autumn 2020,34705,1,Entrepreneurial Discovery,T 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/mark.tebbe/34705_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,34705,2,Entrepreneurial Discovery,W 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/mark.tebbe/34705_syllabus.pdf,Full-Time MBA,1
+Winter 2021,34709,1,Lab to Launch,F 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/jason.blumberg/34709_syllabus.pdf,Full-Time MBA,1
+Winter 2021,34722,1,Scaling Social Innovation Search Lab,M 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/christina.hachikian/34722_syllabus.pdf,Full-Time MBA,1
+Summer 2021,34815,87,Building the New Venture,EMBA1 7:00PM-10:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/waverly.deutsch/34815_syllabus.pdf,Executive MBA North America,1
+Summer 2021,34815,88,Building the New Venture,EMBA2 1:00PM-4:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/waverly.deutsch/34815_syllabus.pdf,Executive MBA North America,1
+Summer 2021,34816,87,Innovation Strategy and Management,EMBA1 1:00PM-4:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/robert.wolcott/34816_syllabus.pdf,Executive MBA North America,1
+Summer 2021,34816,88,Innovation Strategy and Management,EMBA2 7:00PM-10:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/robert.wolcott/34816_syllabus.pdf,Executive MBA North America,1
+Summer 2021,34820,88,Entrepreneurship through Acquisition,EMBA2 7:00AM-10:00AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/brian.oconnor/34820_syllabus.pdf,Executive MBA North America,1
+Summer 2021,34882,88,New Venture Strategy,EMBA2 7:00AM-10:00AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/marc.knez/34882_syllabus.pdf,Executive MBA North America,1
+Summer 2021,34888,88,Innovation Leadership,EMBA2 7:00AM-10:00AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/lindsey.lyman/34888_syllabus.pdf,Executive MBA North America,1
+Autumn 2020,34901,50,Asset Pricing I,W 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/george.constantinides/34901_syllabus.pdf,PhD Program,1
+Winter 2021,34902,50,Asset Pricing II,TH 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/ralph.koijen/34902_syllabus.pdf,PhD Program,1
+Autumn 2020,34903,50,Corporate Finance I,M 3:15PM-6:15PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/douglas.diamond/34903_syllabus.pdf,PhD Program,1
+Winter 2021,34904,50,Corporate Finance II,MW 9:40AM-11:00AM,0,PhD Program,1
+Autumn 2020,35000,1,Investments,M 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/john.heaton/35000_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,35000,2,Investments,M 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/john.heaton/35000_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,35000,81,Investments,M 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/john.heaton/35000_syllabus.pdf,Evening MBA,1
+Winter 2021,35000,1,Investments,F 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/michael.weber/35000_syllabus.pdf,Full-Time MBA,1
+Winter 2021,35000,2,Investments,M 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/alex.chinco/35000_syllabus.pdf,Full-Time MBA,1
+Winter 2021,35000,81,Investments,F 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/michael.weber/35000_syllabus.pdf,Evening MBA,1
+Winter 2021,35000,82,Investments,M 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/alex.chinco/35000_syllabus.pdf,Evening MBA,1
+Winter 2021,35000,85,Investments,S 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/michael.weber/35000_syllabus.pdf,Weekend MBA,1
+Spring 2021,35000,1,Investments,T 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/niels.gormsen/35000_syllabus.pdf,Full-Time MBA,1
+Spring 2021,35000,2,Investments,W 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/niels.gormsen/35000_syllabus.pdf,Full-Time MBA,1
+Spring 2021,35000,81,Investments,T 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/niels.gormsen/35000_syllabus.pdf,Evening MBA,1
+Summer 2021,35000,81,Investments,M 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/alex.chinco/35000_syllabus.pdf,Evening MBA,1
+Summer 2021,35000,85,Investments,S 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/alex.chinco/35000_syllabus.pdf,Weekend MBA,1
+Autumn 2020,35001,1,Introductory Finance,M 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/ayan.bhattacharya/35001_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,35001,81,Introductory Finance,M 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/ayan.bhattacharya/35001_syllabus.pdf,Evening MBA,1
+Autumn 2020,35001,85,Introductory Finance,S 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/ayan.bhattacharya/35001_syllabus.pdf,Weekend MBA,1
+Autumn 2020,35100,81,Financial Instruments,TH 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/george.constantinides/35100_syllabus.pdf,Evening MBA,1
+Autumn 2020,35100,85,Financial Instruments,S 9:00AM-12:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/george.constantinides/35100_syllabus.pdf,Weekend MBA,1
+Winter 2021,35101,81,"Futures, Forwards, Options & Swaps: Theory and Practice",T 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/terry.belton/35101_syllabus.pdf,Evening MBA,1
+Spring 2021,35120,1,Portfolio Management,F 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/lubos.pastor/35120_syllabus.pdf,Full-Time MBA,1
+Spring 2021,35120,2,Portfolio Management,F 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/lubos.pastor/35120_syllabus.pdf,Full-Time MBA,1
+Spring 2021,35120,81,Portfolio Management,F 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/lubos.pastor/35120_syllabus.pdf,Evening MBA,1
+Spring 2021,35121,1,Behavioral Finance,W 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/samuel.hartzmark/35121_syllabus.pdf,Full-Time MBA,1
+Spring 2021,35121,81,Behavioral Finance,W 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/samuel.hartzmark/35121_syllabus.pdf,Evening MBA,1
+Spring 2021,35123,1,The FinTech Revolution,T 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/luigi.zingales/35123_syllabus.pdf,Full-Time MBA,1
+Spring 2021,35123,81,The FinTech Revolution,T 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/luigi.zingales/35123_syllabus.pdf,Evening MBA,1
+Winter 2021,35126,1,Quantitative Portfolio Management,TH 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/ralph.koijen/35126_syllabus.pdf,Full-Time MBA,1
+Winter 2021,35126,81,Quantitative Portfolio Management,TH 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/ralph.koijen/35126_syllabus.pdf,Evening MBA,1
+Spring 2021,35130,81,Fixed Income Asset Pricing,M 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/john.heaton/35130_syllabus.pdf,Evening MBA,1
+Autumn 2020,35200,1,Corporation Finance,W 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/scott.nelson/35200_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,35200,2,Corporation Finance,W 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/scott.nelson/35200_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,35200,81,Corporation Finance,W 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/scott.nelson/35200_syllabus.pdf,Evening MBA,1
+Winter 2021,35200,1,Corporation Finance,F 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/elisabeth.kempf/35200_syllabus.pdf,Full-Time MBA,1
+Winter 2021,35200,2,Corporation Finance,F 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/elisabeth.kempf/35200_syllabus.pdf,Full-Time MBA,1
+Winter 2021,35200,3,Corporation Finance,W 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/pascal.noel/35200_syllabus.pdf,Full-Time MBA,1
+Winter 2021,35200,4,Corporation Finance,W 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/pascal.noel/35200_syllabus.pdf,Full-Time MBA,1
+Winter 2021,35200,81,Corporation Finance,W 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/pascal.noel/35200_syllabus.pdf,Evening MBA,1
+Winter 2021,35200,85,Corporation Finance,S 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/elisabeth.kempf/35200_syllabus.pdf,Weekend MBA,1
+Spring 2021,35200,1,Corporation Finance,TH 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/jessica.jeffers/35200_syllabus.pdf,Full-Time MBA,1
+Spring 2021,35200,2,Corporation Finance,TH 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/jessica.jeffers/35200_syllabus.pdf,Full-Time MBA,1
+Spring 2021,35200,81,Corporation Finance,TH 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/jessica.jeffers/35200_syllabus.pdf,Evening MBA,1
+Summer 2021,35200,81,Corporation Finance,F 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/theo.vermaelen/35200_syllabus.pdf,Evening MBA,1
+Summer 2021,35200,85,Corporation Finance,S 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/theo.vermaelen/35200_syllabus.pdf,Weekend MBA,1
+Autumn 2020,35201,1,Cases in Financial Management,T 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/laura.born/35201_syllabus.pdf,Full-Time MBA,1
+Winter 2021,35201,1,Cases in Financial Management,W 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/laura.born/35201_syllabus.pdf,Full-Time MBA,1
+Winter 2021,35201,81,Cases in Financial Management,W 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/laura.born/35201_syllabus.pdf,Evening MBA,1
+Spring 2021,35201,81,Cases in Financial Management,W 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/mark.mitchell/35201_syllabus.pdf,Evening MBA,1
+Summer 2021,35201,81,Cases in Financial Management,F 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/charles.hadlock/35201_syllabus.pdf,Evening MBA,1
+Summer 2021,35201,85,Cases in Financial Management,S 9:00AM-12:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/charles.hadlock/35201_syllabus.pdf,Weekend MBA,1
+Spring 2021,35202,1,Financial Markets and Institutions,F 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/douglas.diamond/35202_syllabus.pdf,Full-Time MBA,1
+Spring 2021,35202,85,Financial Markets and Institutions,S 9:00AM-12:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/douglas.diamond/35202_syllabus.pdf,Weekend MBA,1
+Winter 2021,35210,1,International Corporate Finance,F 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/raghuram.rajan/35210_syllabus.pdf,Full-Time MBA,1
+Winter 2021,35210,2,International Corporate Finance,F 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/raghuram.rajan/35210_syllabus.pdf,Full-Time MBA,1
+Winter 2021,35210,81,International Corporate Finance,TH 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/raghuram.rajan/35210_syllabus.pdf,Evening MBA,1
+Spring 2021,35213,1,Emerging Markets Finance and Entrepreneurship,F 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/emanuele.colonnelli/35213_syllabus.pdf,Full-Time MBA,1
+Spring 2021,35213,81,Emerging Markets Finance and Entrepreneurship,F 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/emanuele.colonnelli/35213_syllabus.pdf,Evening MBA,1
+Spring 2021,35213,85,Emerging Markets Finance and Entrepreneurship,S 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/emanuele.colonnelli/35213_syllabus.pdf,Weekend MBA,1
+Winter 2021,35214,1,"Debt, Distress, and Restructuring",W 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/amir.sufi/35214_syllabus.pdf,Full-Time MBA,1
+Winter 2021,35214,81,"Debt, Distress, and Restructuring",T 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/amir.sufi/35214_syllabus.pdf,Evening MBA,1
+Winter 2021,35215,1,Behavioral and Institutional Finance,TH 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/robert.vishny/35215_syllabus.pdf,Full-Time MBA,1
+Winter 2021,35215,85,Behavioral and Institutional Finance,S 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/robert.vishny/35215_syllabus.pdf,Weekend MBA,1
+Spring 2021,35219,1,Chinese Economy and Financial Markets,TTH 10:10AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/zhiguo.he/35219_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,35600,60,Seminar:  Finance,T 1:20PM-2:50PM,0,Workshop,1
+Winter 2021,35600,60,Seminar:  Finance,T 1:20PM-2:50PM,0,Workshop,1
+Spring 2021,35600,60,Seminar:  Finance,T 1:20PM-2:50PM,0,Workshop,1
+Autumn 2020,35601,60,Applied Theory Workshop,T 12:00PM-1:00PM,0,Workshop,1
+Spring 2021,35601,60,Applied Theory Workshop,T 12:00PM-1:00PM,0,Workshop,1
+Summer 2021,35823,88,The Fintech Revolution,EMBA1 7:00AM-10:00AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/luigi.zingales/35823_syllabus.pdf,Executive MBA North America,1
+Summer 2021,35881,88,Financial Instruments for Financial Risk Management,EMBA2 7:00AM-10:00AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/pietro.veronesi/35881_syllabus.pdf,Executive MBA North America,1
+Spring 2021,35901,50,Portfolio Choice and Asset Pricing ,M 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/stefan.nagel/35901_syllabus.pdf,PhD Program,1
+Spring 2021,35906,50,Behavioral Finance,TH 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/samuel.hartzmark/35906_syllabus.pdf,PhD Program,1
+Spring 2021,35908,50,Research Projects: Finance,W 1:30PM-5:00PM,0,PhD Program,1
+Spring 2021,35916,50,New Developments in Public Finance,M 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/eric.zwick/35916_syllabus.pdf,PhD Program,1
+Autumn 2020,35930,50,Research Seminar,M 8:30AM-10:00AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/zhiguo.he/35930_syllabus.pdf,PhD Program,1
+Winter 2021,35931,50,Research Seminar,M 9:00AM-10:30AM,0,PhD Program,1
+Spring 2021,35932,50,Research Seminar,M 9:00AM-10:30AM,0,PhD Program,1
+Autumn 2020,36106,1,Managerial Decision Modeling,TH 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/burhaneddin.sandikci/36106_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,36106,81,Managerial Decision Modeling,TH 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/burhaneddin.sandikci/36106_syllabus.pdf,Evening MBA,1
+Autumn 2020,36106,85,Managerial Decision Modeling,S 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/burhaneddin.sandikci/36106_syllabus.pdf,Weekend MBA,1
+Winter 2021,36106,1,Managerial Decision Modeling,WF 3:10PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/baris.ata/36106_syllabus.pdf,Full-Time MBA,1
+Winter 2021,36106,2,Managerial Decision Modeling,WF 4:40PM-6:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/baris.ata/36106_syllabus.pdf,Full-Time MBA,1
+Winter 2021,36106,85,Managerial Decision Modeling,S 9:00AM-12:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/baris.ata/36106_syllabus.pdf,Weekend MBA,1
+Spring 2021,36106,1,Managerial Decision Modeling,W 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/varun.gupta/36106_syllabus.pdf,Full-Time MBA,1
+Spring 2021,36106,81,Managerial Decision Modeling,W 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/varun.gupta/36106_syllabus.pdf,Evening MBA,1
+Spring 2021,36109,1,Advanced Decision Models with Python,TH 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/donald.eisenstein/36109_syllabus.pdf,Full-Time MBA,1
+Spring 2021,36109,81,Advanced Decision Models with Python,F 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/donald.eisenstein/36109_syllabus.pdf,Evening MBA,1
+Spring 2021,36109,85,Advanced Decision Models with Python,S 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/donald.eisenstein/36109_syllabus.pdf,Weekend MBA,1
+Autumn 2020,36110,1,Application Development,TH 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/raghu.betina/36110_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,36110,85,Application Development,S 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/raghu.betina/36110_syllabus.pdf,Weekend MBA,1
+Winter 2021,36110,1,Application Development,M 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/raghu.betina/36110_syllabus.pdf,Full-Time MBA,1
+Spring 2021,36110,1,Application Development,W 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/raghu.betina/36110_syllabus.pdf,Full-Time MBA,1
+Spring 2021,36110,2,Application Development,TH 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/raghu.betina/36110_syllabus.pdf,Full-Time MBA,1
+Summer 2021,36110,81,Application Development,W 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/raghu.betina/36110_syllabus.pdf,Evening MBA,1
+Spring 2021,36111,81,Application Development II,TH 6:00PM-9:00PM,0,Evening MBA,1
+Autumn 2020,36600,60,Workshop in Operations/Management Science,T 12:10PM-1:20PM,0,Workshop,1
+Spring 2021,36600,60,Workshop in Operations/Management Science,T 12:10PM-1:20PM,0,Workshop,1
+Summer 2021,36820,88,Application Domain Modeling,EMBA2 7:00AM-10:00AM,0,Executive MBA North America,1
+Autumn 2020,36900,50,Linear Programming,TH 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/linwei.xin/36900_syllabus.pdf,PhD Program,1
+Spring 2021,36902,50,Dynamic Programming/Markov Decision Processes,F 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/rene.caldentey/36902_syllabus.pdf,PhD Program,1
+Winter 2021,36903,1,Convex Optimization,MW 4:10PM-5:30PM,0,PhD Program,1
+Autumn 2020,36906,50,Stochastic Processes,T 8:30AM-11:30AM,0,PhD Program,1
+Winter 2021,36912,50,Stochastic Optimization,F 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/john.birge/36912_syllabus.pdf,PhD Program,1
+Spring 2021,36913,50,Online Optimization,F 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/varun.gupta/36913_syllabus.pdf,PhD Program,1
+Winter 2021,36914,50,Queueing Theory,WF 1:00PM-2:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/yuan.zhong/36914_syllabus.pdf,PhD Program,1
+Winter 2021,36917,50,Networks and Markets,M 10:30AM-1:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/ozan.candogan/36917_syllabus.pdf,PhD Program,1
+Autumn 2020,37000,1,Marketing Strategy,W 1:30PM-2:50PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/anita.rao/37000_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,37000,2,Marketing Strategy,W 3:10PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/anita.rao/37000_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,37000,3,Marketing Strategy,M 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/berkeley.dietvorst/37000_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,37000,4,Marketing Strategy,M 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/berkeley.dietvorst/37000_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,37000,81,Marketing Strategy,W 6:00PM-7:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/anita.rao/37000_syllabus.pdf,Evening MBA,1
+Autumn 2020,37000,82,Marketing Strategy,M 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/berkeley.dietvorst/37000_syllabus.pdf,Evening MBA,1
+Winter 2021,37000,1,Marketing Strategy,F 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/avner.shlain/37000_syllabus.pdf,Full-Time MBA,1
+Winter 2021,37000,2,Marketing Strategy,TH 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/abigail.sussman/37000_syllabus.pdf,Full-Time MBA,1
+Winter 2021,37000,3,Marketing Strategy,TH 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/abigail.sussman/37000_syllabus.pdf,Full-Time MBA,1
+Winter 2021,37000,81,Marketing Strategy,W 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/chris.krohn/37000_syllabus.pdf,Evening MBA,1
+Winter 2021,37000,82,Marketing Strategy,T 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/tom.hafen/37000_syllabus.pdf,Evening MBA,1
+Winter 2021,37000,85,Marketing Strategy,S 9:00AM-12:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/tom.hafen/37000_syllabus.pdf,Weekend MBA,1
+Spring 2021,37000,1,Marketing Strategy,W 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/bradley.shapiro/37000_syllabus.pdf,Full-Time MBA,1
+Spring 2021,37000,2,Marketing Strategy,W 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/bradley.shapiro/37000_syllabus.pdf,Full-Time MBA,1
+Spring 2021,37000,81,Marketing Strategy,W 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/bradley.shapiro/37000_syllabus.pdf,Evening MBA,1
+Summer 2021,37000,81,Marketing Strategy,TH 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/sanjay.dhar/37000_syllabus.pdf,Evening MBA,1
+Summer 2021,37000,85,Marketing Strategy,S 9:00AM-12:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/sanjay.dhar/37000_syllabus.pdf,Weekend MBA,1
+Winter 2021,37101,1,Consumer Behavior,TH 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/celia.gaertig/37101_syllabus.pdf,Full-Time MBA,1
+Winter 2021,37101,81,Consumer Behavior,TH 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/celia.gaertig/37101_syllabus.pdf,Evening MBA,1
+Spring 2021,37101,1,Consumer Behavior,TH 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/daniel.bartels/37101_syllabus.pdf,Full-Time MBA,1
+Spring 2021,37101,81,Consumer Behavior,TH 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/daniel.bartels/37101_syllabus.pdf,Evening MBA,1
+Spring 2021,37101,85,Consumer Behavior,S 9:00AM-12:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/daniel.bartels/37101_syllabus.pdf,Weekend MBA,1
+Spring 2021,37103,1,Data-Driven Marketing,TH 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/guenter.hitsch/37103_syllabus.pdf,Full-Time MBA,1
+Spring 2021,37103,81,Data-Driven Marketing,TH 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/guenter.hitsch/37103_syllabus.pdf,Evening MBA,1
+Autumn 2020,37105,1,Data Science for Marketing Decision Making,F 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/guenter.hitsch/37105_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,37105,81,Data Science for Marketing Decision Making,F 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/guenter.hitsch/37105_syllabus.pdf,Evening MBA,1
+Winter 2021,37107,1,Experimental Marketing,W 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/oleg.urminsky/37107_syllabus.pdf,Full-Time MBA,1
+Summer 2021,37107,81,Experimental Marketing,W 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/oleg.urminsky/37107_syllabus.pdf,Evening MBA,1
+Autumn 2020,37200,85,New Products and Services,S 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/craig.terrill/37200_syllabus.pdf,Weekend MBA,1
+Winter 2021,37200,81,New Products and Services,TH 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/arthur.middlebrooks/37200_syllabus.pdf,Evening MBA,1
+Winter 2021,37201,1,Lab in Developing New Products and Services,TH 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/arthur.middlebrooks/37201_syllabus.pdf,Full-Time MBA,1
+Winter 2021,37201,81,Lab in Developing New Products and Services,W 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/arthur.middlebrooks/37201_syllabus.pdf,Evening MBA,1
+Spring 2021,37201,81,Lab in Developing New Products and Services,T 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/craig.terrill/37201_syllabus.pdf,Evening MBA,1
+Spring 2021,37201,82,Lab in Developing New Products and Services,W 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/craig.terrill/37201_syllabus.pdf,Evening MBA,1
+Winter 2021,37202,1,Pricing Strategies,W 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/sarah.moshary/37202_syllabus.pdf,Full-Time MBA,1
+Winter 2021,37202,81,Pricing Strategies,T 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/sarah.moshary/37202_syllabus.pdf,Evening MBA,1
+Spring 2021,37202,1,Pricing Strategies,W 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/jean-pierre.dube/37202_syllabus.pdf,Full-Time MBA,1
+Spring 2021,37202,81,Pricing Strategies,W 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/jean-pierre.dube/37202_syllabus.pdf,Evening MBA,1
+Spring 2021,37202,85,Pricing Strategies,S 9:00AM-12:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/jean-pierre.dube/37202_syllabus.pdf,Weekend MBA,1
+Autumn 2020,37301,81,Digital Marketing ,F 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/lil.mohan/37301_syllabus.pdf,Evening MBA,1
+Winter 2021,37304,1,Digital and Algorithmic Marketing,F 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/sanjog.misra/37304_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,37601,60,Marketing Workshop,T 10:40AM-12:00PM,0,Workshop,1
+Winter 2021,37601,60,Marketing Workshop,T 10:40AM-12:00PM,0,Workshop,1
+Spring 2021,37601,60,Marketing Workshop,T 10:40AM-12:00PM,0,Workshop,1
+Autumn 2020,37703,85,Digital Marketing Lab,S 9:00AM-12:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/lil.mohan/37703_syllabus.pdf,Weekend MBA,1
+Spring 2021,37704,1,Algorithmic Marketing Lab,W 8:30AM-11:30AM,0,Full-Time MBA,1
+Summer 2021,37802,87,Pricing Strategies,EMBA1 7:00AM-10:00AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/jean-pierre.dube/37802_syllabus.pdf,Executive MBA North America,1
+Summer 2021,37810,88,New Product Development,EMBA1 7:00AM-10:00AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/sanjay.dhar/37810_syllabus.pdf,Executive MBA North America,1
+Summer 2021,37816,88,Consumer Behavior,EMBA2 7:00AM-10:00AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/daniel.bartels/37816_syllabus.pdf,Executive MBA North America,1
+Summer 2021,37882,88,Marketing Strategy Simulation,EMBA2 7:00AM-10:00AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/pradeep.chintagunta/37882_syllabus.pdf,Executive MBA North America,1
+Winter 2021,37902,50,Foundations of Advanced Quantitative Marketing,TH 9:30AM-12:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/pradeep.chintagunta/37902_syllabus.pdf,PhD Program,1
+Spring 2021,37903,50,Adv Mktg Theory:  Behavioral Science Approach,W 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/abigail.sussman/37903_syllabus.pdf,PhD Program,1
+Winter 2021,37904,50,Advanced Quantitative Marketing,M 1:30PM-4:30PM,0,PhD Program,1
+Spring 2021,37905,50,Marketing Literature Seminar,W 1:30PM-4:30PM,0,PhD Program,1
+Winter 2021,37906,50,Applied Bayesian Econometrics,W 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/sanjog.misra/37906_syllabus.pdf,PhD Program,1
+Spring 2021,37907,50,Behavioral Science Research Methods in Marketing,M 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/oleg.urminsky/37907_syllabus.pdf,PhD Program,1
+Autumn 2020,37909,50,Cognitive Underpinnings of Decisions,W 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/daniel.bartels/37909_syllabus.pdf,PhD Program,1
+Autumn 2020,38001,1,Managing in Organizations,F 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/ann.mcgill/38001_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,38001,2,Managing in Organizations,F 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/ann.mcgill/38001_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,38001,85,Managing in Organizations,S 9:00AM-12:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/ann.mcgill/38001_syllabus.pdf,Weekend MBA,1
+Winter 2021,38001,1,Managing in Organizations,W 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/ed.o/38001_syllabus.pdf,Full-Time MBA,1
+Winter 2021,38001,2,Managing in Organizations,W 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/ed.o/38001_syllabus.pdf,Full-Time MBA,1
+Spring 2021,38001,1,Managing in Organizations,M 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/ayelet.fishbach/38001_syllabus.pdf,Full-Time MBA,1
+Spring 2021,38001,2,Managing in Organizations,T 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/ayelet.fishbach/38001_syllabus.pdf,Full-Time MBA,1
+Spring 2021,38001,81,Managing in Organizations,M 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/ayelet.fishbach/38001_syllabus.pdf,Evening MBA,1
+Autumn 2020,38002,1,Managerial Decision Making,M 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/christopher.hsee/38002_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,38002,81,Managerial Decision Making,M 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/christopher.hsee/38002_syllabus.pdf,Evening MBA,1
+Autumn 2020,38002,85,Managerial Decision Making,S 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/christopher.hsee/38002_syllabus.pdf,Weekend MBA,1
+Winter 2021,38002,1,Managerial Decision Making,F 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/reid.hastie/38002_syllabus.pdf,Full-Time MBA,1
+Winter 2021,38002,2,Managerial Decision Making,F 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/reid.hastie/38002_syllabus.pdf,Full-Time MBA,1
+Winter 2021,38002,85,Managerial Decision Making,S 9:00AM-12:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/reid.hastie/38002_syllabus.pdf,Weekend MBA,1
+Spring 2021,38002,1,Managerial Decision Making,T 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/anuj.shah/38002_syllabus.pdf,Full-Time MBA,1
+Spring 2021,38002,2,Managerial Decision Making,T 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/anuj.shah/38002_syllabus.pdf,Full-Time MBA,1
+Spring 2021,38002,81,Managerial Decision Making,T 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/anuj.shah/38002_syllabus.pdf,Evening MBA,1
+Spring 2021,38003,1,Power and Influence in Organizations,M 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/a.nussbaum/38003_syllabus.pdf,Full-Time MBA,1
+Spring 2021,38003,2,Power and Influence in Organizations,M 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/a.nussbaum/38003_syllabus.pdf,Full-Time MBA,1
+Spring 2021,38003,81,Power and Influence in Organizations,M 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/a.nussbaum/38003_syllabus.pdf,Evening MBA,1
+Autumn 2020,38101,81,Persuasion: Effective Business Communication,W 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/hal.weitzman/38101_syllabus.pdf,Evening MBA,1
+Winter 2021,38101,81,Persuasion: Effective Business Communication,TH 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/hal.weitzman/38101_syllabus.pdf,Evening MBA,1
+Spring 2021,38102,81,Persuasion II: Influence Through Narrative,M 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/hal.weitzman/38102_syllabus.pdf,Evening MBA,1
+Autumn 2020,38103,1,Strategies and Processes of Negotiation,M 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/thomas.talhelm/38103_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,38103,2,Strategies and Processes of Negotiation,T 2:00PM-5:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/thomas.talhelm/38103_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,38103,3,Strategies and Processes of Negotiation,TH 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/joshua.dean/38103_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,38103,81,Strategies and Processes of Negotiation,T 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/thomas.talhelm/38103_syllabus.pdf,Evening MBA,1
+Autumn 2020,38103,82,Strategies and Processes of Negotiation,TH 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/joshua.dean/38103_syllabus.pdf,Evening MBA,1
+Winter 2021,38103,1,Strategies and Processes of Negotiation,T 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/alex.koch/38103_syllabus.pdf,Full-Time MBA,1
+Winter 2021,38103,2,Strategies and Processes of Negotiation,TH 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/shereen.chaudhry/38103_syllabus.pdf,Full-Time MBA,1
+Winter 2021,38103,3,Strategies and Processes of Negotiation,F 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/bernd.wittenbrink/38103_syllabus.pdf,Full-Time MBA,1
+Winter 2021,38103,81,Strategies and Processes of Negotiation,T 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/alex.koch/38103_syllabus.pdf,Evening MBA,1
+Winter 2021,38103,82,Strategies and Processes of Negotiation,TH 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/shereen.chaudhry/38103_syllabus.pdf,Evening MBA,1
+Winter 2021,38103,83,Strategies and Processes of Negotiation,F 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/bernd.wittenbrink/38103_syllabus.pdf,Evening MBA,1
+Winter 2021,38103,85,Strategies and Processes of Negotiation,S 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/bernd.wittenbrink/38103_syllabus.pdf,Weekend MBA,1
+Spring 2021,38103,1,Strategies and Processes of Negotiation,T 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/bernd.wittenbrink/38103_syllabus.pdf,Full-Time MBA,1
+Spring 2021,38103,2,Strategies and Processes of Negotiation,W 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/bernd.wittenbrink/38103_syllabus.pdf,Full-Time MBA,1
+Spring 2021,38103,81,Strategies and Processes of Negotiation,T 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/bernd.wittenbrink/38103_syllabus.pdf,Evening MBA,1
+Spring 2021,38103,85,Strategies and Processes of Negotiation,S 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/elena.zinchenko/38103_syllabus.pdf,Weekend MBA,1
+Spring 2021,38105,1,Advanced Negotiations,W 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/george.wu/38105_syllabus.pdf,Full-Time MBA,1
+Spring 2021,38105,2,Advanced Negotiations,W 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/george.wu/38105_syllabus.pdf,Full-Time MBA,1
+Spring 2021,38105,81,Advanced Negotiations,W 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/george.wu/38105_syllabus.pdf,Evening MBA,1
+Autumn 2020,38115,85,Ethics of Business,S 9:00AM-12:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/john.rollert/38115_syllabus.pdf,Weekend MBA,1
+Autumn 2020,38116,1,Leading and Managing Teams,TH 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/elena.zinchenko/38116_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,38116,81,Leading and Managing Teams,F 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/elena.zinchenko/38116_syllabus.pdf,Evening MBA,1
+Summer 2021,38118,81,Effective Management of Groups and Teams,F 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/reid.hastie/38118_syllabus.pdf,Evening MBA,1
+Summer 2021,38118,85,Effective Management of Groups and Teams,S 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/reid.hastie/38118_syllabus.pdf,Weekend MBA,1
+Winter 2021,38119,1,Designing a Good Life,F 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/nicholas.epley/38119_syllabus.pdf,Full-Time MBA,1
+Winter 2021,38119,81,Designing a Good Life,F 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/nicholas.epley/38119_syllabus.pdf,Evening MBA,1
+Winter 2021,38119,85,Designing a Good Life,S 9:00AM-12:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/nicholas.epley/38119_syllabus.pdf,Weekend MBA,1
+Winter 2021,38120,1,The Study of Behavioral Economics,W 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/devin.pope/38120_syllabus.pdf,Full-Time MBA,1
+Winter 2021,38120,81,The Study of Behavioral Economics,W 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/devin.pope/38120_syllabus.pdf,Evening MBA,1
+Winter 2021,38122,1,Diversity in Organizations,T 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/jane.risen/38122_syllabus.pdf,Full-Time MBA,1
+Winter 2021,38122,2,Diversity in Organizations,T 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/jane.risen/38122_syllabus.pdf,Full-Time MBA,1
+Winter 2021,38122,81,Diversity in Organizations,T 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/jane.risen/38122_syllabus.pdf,Evening MBA,1
+Summer 2021,38123,81,Leadership Capital,T 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/linda.ginzel/38123_syllabus.pdf,Evening MBA,1
+Summer 2021,38123,82,Leadership Capital,W 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/linda.ginzel/38123_syllabus.pdf,Evening MBA,1
+Autumn 2020,38601,60,Workshop in Behavioral Science,M 10:10AM-12:00PM,0,Workshop,1
+Winter 2021,38601,60,Workshop in Behavioral Science,M 10:10AM-12:00PM,0,Workshop,1
+Spring 2021,38601,60,Workshop in Behavioral Science,M 10:10AM-12:00PM,0,Workshop,1
+Summer 2021,38825,88,Behavioral Economics,EMBA1 7:00AM-10:00AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/devin.pope/38825_syllabus.pdf,Executive MBA North America,1
+Summer 2021,38870,87,Designing a Good Life,EMBA2 1:00PM-4:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/nicholas.epley/38870_syllabus.pdf,Executive MBA North America,1
+Summer 2021,38870,88,Designing a Good Life,EMBA2 7:00PM-10:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/nicholas.epley/38870_syllabus.pdf,Executive MBA North America,1
+Summer 2021,38886,87,Power and Influence in Organizations ,EMBA1 7:00PM-10:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/tanya.menon/38886_syllabus.pdf,Executive MBA North America,1
+Summer 2021,38886,88,Power and Influence in Organizations ,EMBA2 1:00PM-4:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/tanya.menon/38886_syllabus.pdf,Executive MBA North America,1
+Autumn 2020,38901,50,Current Topics in Behavioral Science I,T 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/christopher.hsee/38901_syllabus.pdf,PhD Program,1
+Winter 2021,38913,50,Foundations of Judgment and Decision Making,TH 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/reid.hastie/38913_syllabus.pdf,PhD Program,1
+Autumn 2020,38916,50,Behavioral Economics - Development & Observational Data,TH 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/devin.pope/38916_syllabus.pdf,PhD Program,1
+Winter 2021,38917,50,Topics in Behavioral Economics,M 6:30PM-9:20PM,0,PhD Program,1
+Spring 2021,38918,50,Behavioral Economics - Theory & the Lab,T 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/alex.imas/38918_syllabus.pdf,PhD Program,1
+Spring 2021,38919,50,Psychology and Social Inequities,M 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/sendhil.mullainathan/38919_syllabus.pdf,PhD Program,1
+Spring 2021,39001,1,Strategy and Structure: Markets and Organizations,W 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/amanda.sharkey/39001_syllabus.pdf,Full-Time MBA,1
+Spring 2021,39001,2,Strategy and Structure: Markets and Organizations,W 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/amanda.sharkey/39001_syllabus.pdf,Full-Time MBA,1
+Spring 2021,39001,81,Strategy and Structure: Markets and Organizations,W 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/amanda.sharkey/39001_syllabus.pdf,Evening MBA,1
+Winter 2021,39002,1,Strategic Leadership in Management Networks,TH 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/ronald.burt/39002_syllabus.pdf,Full-Time MBA,1
+Winter 2021,39002,2,Strategic Leadership in Management Networks,F 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/ronald.burt/39002_syllabus.pdf,Full-Time MBA,1
+Winter 2021,39002,85,Strategic Leadership in Management Networks,S 9:00AM-12:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/ronald.burt/39002_syllabus.pdf,Weekend MBA,1
+Autumn 2020,39101,1,Technology Strategy,W 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/marc.knez/39101_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,39101,81,Technology Strategy,W 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/marc.knez/39101_syllabus.pdf,Evening MBA,1
+Winter 2021,39101,85,Technology Strategy,S 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/marc.knez/39101_syllabus.pdf,Weekend MBA,1
+Autumn 2020,40000,1,Operations Management: Business Process Fundamentals,TH 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/rene.caldentey/40000_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,40000,81,Operations Management: Business Process Fundamentals,TH 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/rene.caldentey/40000_syllabus.pdf,Evening MBA,1
+Winter 2021,40000,1,Operations Management: Business Process Fundamentals,W 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/ozan.candogan/40000_syllabus.pdf,Full-Time MBA,1
+Winter 2021,40000,2,Operations Management: Business Process Fundamentals,TH 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/ozan.candogan/40000_syllabus.pdf,Full-Time MBA,1
+Winter 2021,40000,81,Operations Management: Business Process Fundamentals,W 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/ozan.candogan/40000_syllabus.pdf,Evening MBA,1
+Spring 2021,40000,1,Operations Management: Business Process Fundamentals,TH 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/yuan.zhong/40000_syllabus.pdf,Full-Time MBA,1
+Spring 2021,40000,2,Operations Management: Business Process Fundamentals,TH 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/linwei.xin/40000_syllabus.pdf,Full-Time MBA,1
+Spring 2021,40000,3,Operations Management: Business Process Fundamentals,F 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/linwei.xin/40000_syllabus.pdf,Full-Time MBA,1
+Spring 2021,40000,81,Operations Management: Business Process Fundamentals,F 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/yuan.zhong/40000_syllabus.pdf,Evening MBA,1
+Spring 2021,40000,85,Operations Management: Business Process Fundamentals,S 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/linwei.xin/40000_syllabus.pdf,Weekend MBA,1
+Summer 2021,40000,81,Operations Management: Business Process Fundamentals,F 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/sergio.chayet/40000_syllabus.pdf,Evening MBA,1
+Summer 2021,40000,85,Operations Management: Business Process Fundamentals,S 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/sergio.chayet/40000_syllabus.pdf,Weekend MBA,1
+Winter 2021,40101,1,Supply Chain Strategy and Practice,M 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/nicole.dehoratius/40101_syllabus.pdf,Full-Time MBA,1
+Winter 2021,40101,81,Supply Chain Strategy and Practice,M 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/nicole.dehoratius/40101_syllabus.pdf,Evening MBA,1
+Winter 2021,40108,1,Revenue Management,W 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/john.birge/40108_syllabus.pdf,Full-Time MBA,1
+Spring 2021,40108,85,Revenue Management,S 9:00AM-12:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/rene.caldentey/40108_syllabus.pdf,Weekend MBA,1
+Winter 2021,40110,1,Managing Service Operations,T 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/amy.ward/40110_syllabus.pdf,Full-Time MBA,1
+Winter 2021,40110,81,Managing Service Operations,T 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/amy.ward/40110_syllabus.pdf,Evening MBA,1
+Summer 2021,40111,85,Project Management,S 9:00AM-12:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/sergio.chayet/40111_syllabus.pdf,Weekend MBA,1
+Winter 2021,40205,1,Healthcare Data Analytics,TH 2:00PM-5:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/dan.adelman/40205_syllabus.pdf,Full-Time MBA,1
+Winter 2021,40205,81,Healthcare Data Analytics,TH 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/dan.adelman/40205_syllabus.pdf,Evening MBA,1
+Autumn 2020,40721,1,Healthcare Analytics Lab,W 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/dan.adelman/40721_syllabus.pdf,Full-Time MBA,1
+Winter 2021,40910,50,Supply Chain Foundations & Theory,W 9:00AM-12:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/levi.devalve/40910_syllabus.pdf,PhD Program,1
+Autumn 2020,40911,50,Queueing Models for Service Operations Management,M 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/amy.ward/40911_syllabus.pdf,PhD Program,1
+Autumn 2020,41000,1,Business Statistics,M 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/bryon.aragam/41000_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,41000,2,Business Statistics,M 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/bryon.aragam/41000_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,41000,3,Business Statistics,T 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/tengyuan.liang/41000_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,41000,4,Business Statistics,W 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/tengyuan.liang/41000_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,41000,5,Business Statistics,W 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/tengyuan.liang/41000_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,41000,6,Business Statistics,F 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/nicholas.polson/41000_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,41000,81,Business Statistics,TH 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/tetsuya.kaji/41000_syllabus.pdf,Evening MBA,1
+Autumn 2020,41000,82,Business Statistics,F 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/tetsuya.kaji/41000_syllabus.pdf,Evening MBA,1
+Autumn 2020,41000,85,Business Statistics,S 9:00AM-12:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/nicholas.polson/41000_syllabus.pdf,Weekend MBA,1
+Winter 2021,41000,81,Business Statistics,F 6:00PM-9:00PM,0,Evening MBA,1
+Winter 2021,41000,85,Business Statistics,S 9:00AM-12:00PM,0,Weekend MBA,1
+Spring 2021,41000,81,Business Statistics,F 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/vadim.sokolov/41000_syllabus.pdf,Evening MBA,1
+Spring 2021,41000,85,Business Statistics,S 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/vadim.sokolov/41000_syllabus.pdf,Weekend MBA,1
+Summer 2021,41000,81,Business Statistics,F 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/robert.mcculloch/41000_syllabus.pdf,Evening MBA,1
+Summer 2021,41000,85,Business Statistics,S 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/robert.mcculloch/41000_syllabus.pdf,Weekend MBA,1
+Autumn 2020,41100,1,Applied Regression Analysis,F 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/max.farrell/41100_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,41100,2,Applied Regression Analysis,W 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/panagiotis.toulis/41100_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,41100,3,Applied Regression Analysis,W 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/panagiotis.toulis/41100_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,41100,4,Applied Regression Analysis,M 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/dacheng.xiu/41100_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,41100,81,Applied Regression Analysis,F 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/max.farrell/41100_syllabus.pdf,Evening MBA,1
+Autumn 2020,41100,82,Applied Regression Analysis,T 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/panagiotis.toulis/41100_syllabus.pdf,Evening MBA,1
+Autumn 2020,41100,85,Applied Regression Analysis,S 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/max.farrell/41100_syllabus.pdf,Weekend MBA,1
+Winter 2021,41100,1,Applied Regression Analysis,M 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/dacheng.xiu/41100_syllabus.pdf,Full-Time MBA,1
+Winter 2021,41100,81,Applied Regression Analysis,M 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/dacheng.xiu/41100_syllabus.pdf,Evening MBA,1
+Spring 2021,41100,1,Applied Regression Analysis,TH 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/ekaterina.smetanina/41100_syllabus.pdf,Full-Time MBA,1
+Spring 2021,41100,81,Applied Regression Analysis,F 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/ekaterina.smetanina/41100_syllabus.pdf,Evening MBA,1
+Spring 2021,41100,85,Applied Regression Analysis,S 9:00AM-12:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/ekaterina.smetanina/41100_syllabus.pdf,Weekend MBA,1
+Spring 2021,41201,1,Big Data,F 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/veronika.rockova/41201_syllabus.pdf,Full-Time MBA,1
+Spring 2021,41201,85,Big Data,S 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/veronika.rockova/41201_syllabus.pdf,Weekend MBA,1
+Spring 2021,41202,1,Analysis of Financial Time Series,TH 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/ruey.tsay/41202_syllabus.pdf,Full-Time MBA,1
+Spring 2021,41202,85,Analysis of Financial Time Series,S 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/ruey.tsay/41202_syllabus.pdf,Weekend MBA,1
+Autumn 2020,41203,81,Financial Econometrics,W 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/jeffrey.russell/41203_syllabus.pdf,Evening MBA,1
+Winter 2021,41204,1,Machine Learning,F 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/mladen.kolar/41204_syllabus.pdf,Full-Time MBA,1
+Winter 2021,41204,81,Machine Learning,F 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/mladen.kolar/41204_syllabus.pdf,Evening MBA,1
+Winter 2021,41204,85,Machine Learning,S 9:00AM-12:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/mladen.kolar/41204_syllabus.pdf,Weekend MBA,1
+Autumn 2020,41301,1,"Statistical Insight into Marketing, Consulting, and Entrepreneurship",M 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/zvi.gilula/41301_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,41301,2,"Statistical Insight into Marketing, Consulting, and Entrepreneurship",T 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/zvi.gilula/41301_syllabus.pdf,Full-Time MBA,1
+Summer 2021,41301,81,"Statistical Insight into Marketing, Consulting, and Entrepreneurship",T 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/zvi.gilula/41301_syllabus.pdf,Evening MBA,1
+Autumn 2020,41600,60,Econometrics and Statistics Colloquium,TH 12:00PM-2:50PM,0,Workshop,1
+Winter 2021,41600,60,Econometrics and Statistics Colloquium,TH 12:00PM-2:50PM,0,Workshop,1
+Spring 2021,41600,60,Econometrics and Statistics Colloquium,TH 12:00PM-2:50PM,0,Workshop,1
+Autumn 2020,41901,50,Probability and Statistics,M 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/tetsuya.kaji/41901_syllabus.pdf,PhD Program,1
+Winter 2021,41902,50,Statistical Inference,T 9:00AM-12:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/dacheng.xiu/41902_syllabus.pdf,PhD Program,1
+Spring 2021,41903,50,Applied Econometrics,MW 1:30PM-2:50PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/christian.hansen/41903_syllabus.pdf,PhD Program,1
+Autumn 2020,41910,50,Time-series Analysis for Forecasting and Model Building,F 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/jeffrey.russell/41910_syllabus.pdf,PhD Program,1
+Spring 2021,41914,50,Multivariate Time Series Analysis,F 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/ruey.tsay/41914_syllabus.pdf,PhD Program,1
+Autumn 2020,41916,50,"Bayes, AI and Deep Learning ",TH 8:30AM-11:30AM,0,PhD Program,1
+Autumn 2020,42001,1,Competitive Strategy,M 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/chad.syverson/42001_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,42001,2,Competitive Strategy,W 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/thomas.wollmann/42001_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,42001,3,Competitive Strategy,TH 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/thomas.wollmann/42001_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,42001,4,Competitive Strategy,F 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/thomas.covert/42001_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,42001,5,Competitive Strategy,F 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/thomas.covert/42001_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,42001,81,Competitive Strategy,M 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/chad.syverson/42001_syllabus.pdf,Evening MBA,1
+Autumn 2020,42001,82,Competitive Strategy,W 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/thomas.wollmann/42001_syllabus.pdf,Evening MBA,1
+Autumn 2020,42001,85,Competitive Strategy,S 9:00AM-12:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/ram.shivakumar/42001_syllabus.pdf,Weekend MBA,1
+Winter 2021,42001,1,Competitive Strategy,M 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/eric.budish/42001_syllabus.pdf,Full-Time MBA,1
+Winter 2021,42001,2,Competitive Strategy,F 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/jacob.leshno/42001_syllabus.pdf,Full-Time MBA,1
+Winter 2021,42001,3,Competitive Strategy,F 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/jacob.leshno/42001_syllabus.pdf,Full-Time MBA,1
+Winter 2021,42001,81,Competitive Strategy,M 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/eric.budish/42001_syllabus.pdf,Evening MBA,1
+Winter 2021,42001,82,Competitive Strategy,TH 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/jacob.leshno/42001_syllabus.pdf,Evening MBA,1
+Spring 2021,42001,1,Competitive Strategy,T 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/yoad.shefi/42001_syllabus.pdf,Full-Time MBA,1
+Spring 2021,42001,2,Competitive Strategy,F 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/sonia.marciano/42001_syllabus.pdf,Full-Time MBA,1
+Spring 2021,42001,81,Competitive Strategy,T 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/yoad.shefi/42001_syllabus.pdf,Evening MBA,1
+Summer 2021,42001,81,Competitive Strategy,M 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/sonia.marciano/42001_syllabus.pdf,Evening MBA,1
+Summer 2021,42001,85,Competitive Strategy,S 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/sonia.marciano/42001_syllabus.pdf,Weekend MBA,1
+Autumn 2020,42003,81,Literature and Strategic Leadership,F 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/brian.barry/42003_syllabus.pdf,Evening MBA,1
+Winter 2021,42003,1,Literature and Strategic Leadership,M 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/brian.barry/42003_syllabus.pdf,Full-Time MBA,1
+Spring 2021,42003,81,Literature and Strategic Leadership,M 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/brian.barry/42003_syllabus.pdf,Evening MBA,1
+Spring 2021,42004,81,Literature and Strategic Leadership II,T 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/brian.barry/42004_syllabus.pdf,Evening MBA,1
+Winter 2021,42108,1,Corporate Governance,F 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/dennis.chookaszian/42108_syllabus.pdf,Full-Time MBA,1
+Winter 2021,42108,81,Corporate Governance,F 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/dennis.chookaszian/42108_syllabus.pdf,Evening MBA,1
+Spring 2021,42116,1,Game Theory,F 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/emir.kamenica/42116_syllabus.pdf,Full-Time MBA,1
+Spring 2021,42116,81,Game Theory,F 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/emir.kamenica/42116_syllabus.pdf,Evening MBA,1
+Spring 2021,42116,85,Game Theory,S 9:00AM-12:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/emir.kamenica/42116_syllabus.pdf,Weekend MBA,1
+Autumn 2020,42117,1,Platform Competition,T 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/austan.goolsbee/42117_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,42117,2,Platform Competition,T 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/austan.goolsbee/42117_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,42117,81,Platform Competition,M 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/austan.goolsbee/42117_syllabus.pdf,Evening MBA,1
+Spring 2021,42117,1,Platform Competition,T 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/austan.goolsbee/42117_syllabus.pdf,Full-Time MBA,1
+Spring 2021,42117,2,Platform Competition,T 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/austan.goolsbee/42117_syllabus.pdf,Full-Time MBA,1
+Spring 2021,42117,81,Platform Competition,M 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/austan.goolsbee/42117_syllabus.pdf,Evening MBA,1
+Autumn 2020,42121,81,Merger & Acquisition Strategy,W 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/stephen.morrissette/42121_syllabus.pdf,Evening MBA,1
+Winter 2021,42121,81,Merger & Acquisition Strategy,W 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/stephen.morrissette/42121_syllabus.pdf,Evening MBA,1
+Autumn 2020,42123,1,"Reputation, Regulation and Communications: How Media Influences Business",M 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/guy.rolnik/42123_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,42123,81,"Reputation, Regulation and Communications: How Media Influences Business",M 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/guy.rolnik/42123_syllabus.pdf,Evening MBA,1
+Spring 2021,42124,81,Storytelling and Narratives in Business,F 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/guy.rolnik/42124_syllabus.pdf,Evening MBA,1
+Spring 2021,42124,85,Storytelling and Narratives in Business,S 9:00AM-12:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/guy.rolnik/42124_syllabus.pdf,Weekend MBA,1
+Winter 2021,42125,1,Social Sector Strategy and Structure,TH 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/christina.hachikian/42125_syllabus.pdf,Full-Time MBA,1
+Winter 2021,42125,81,Social Sector Strategy and Structure,TH 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/christina.hachikian/42125_syllabus.pdf,Evening MBA,1
+Autumn 2020,42126,1,Arts Leadership: Exemplary is Not Enough,W 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/mary.ittelson/42126_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,42201,81,The Legal Infrastructure of Business,W 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/randal.picker/42201_syllabus.pdf,Evening MBA,1
+Autumn 2020,42201,85,The Legal Infrastructure of Business,S 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/randal.picker/42201_syllabus.pdf,Weekend MBA,1
+Winter 2021,42300,81,Global Health and Social Policy,T 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/olufunmilayo.olopade/42300_syllabus.pdf,Evening MBA,1
+Autumn 2020,42705,1,"Reputation, Regulation and Communications: How Media Influences Business - Lab",T 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/guy.rolnik/42705_syllabus.pdf,Full-Time MBA,1
+Spring 2021,42708,1,Corporate Social Responsibility (CSR) Social Impact Practicum,TH 8:30AM-11:30AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/caroline.grossman/42708_syllabus.pdf,Full-Time MBA,1
+Spring 2021,42709,1,Consulting Lab,TH 2:00PM-5:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/harry.davis/42709_syllabus.pdf,Full-Time MBA,1
+Autumn 2020,42710,1,Social Impact Lab,T 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/christina.hachikian/42710_syllabus.pdf,Full-Time MBA,1
+Spring 2021,42710,1,Social Impact Lab,M 1:30PM-4:30PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/christina.hachikian/42710_syllabus.pdf,Full-Time MBA,1
+Spring 2021,42714,81,Integrated Strategic Management Lab,F 6:00PM-9:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/kathleen.fitzgerald/42714_syllabus.pdf,Evening MBA,1
+Summer 2021,42813,87,Storytelling,EMBA1 1:00PM-4:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/guy.rolnik/42813_syllabus.pdf,Executive MBA North America,1
+Summer 2021,42813,88,Storytelling,EMBA2 7:00PM-10:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/guy.rolnik/42813_syllabus.pdf,Executive MBA North America,1
+Summer 2021,42819,87,Corporate Governance,EMBA1 1:00PM-4:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/michael.gibbs/42819_syllabus.pdf,Executive MBA North America,1
+Summer 2021,42819,88,Corporate Governance,EMBA2 7:00PM-10:00PM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/michael.gibbs/42819_syllabus.pdf,Executive MBA North America,1
+Summer 2021,42820,88,Technology Strategy,EMBA1 7:00AM-10:00AM,https://appcenter.chicagobooth.edu/apps/syllabuspdf/publishedsyllabuspdf/marc.knez/42820_syllabus.pdf,Executive MBA North America,1
+Summer 2021,42824,87,Merger and Acquisition Strategy,EMBA1 1:00PM-4:00PM,0,Executive MBA North America,1
+Summer 2021,42824,88,Merger and Acquisition Strategy,EMBA1 7:00PM-10:00PM,0,Executive MBA North America,1
