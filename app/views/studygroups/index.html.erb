@@ -1,0 +1,134 @@
+<div>
+  <div>
+    <h1>
+      List of all studygroups
+    </h1>
+  </div>
+</div>
+
+<hr>
+
+<div>
+  <div>
+    <h2>
+      Add a new studygroup
+    </h2>
+
+    <form action="/insert_studygroup" method="post">
+      <div>
+        <label for="course_id_box">
+          Course
+        </label>
+
+        <input type="text" id="course_id_box" name="query_course_id">
+      </div>
+
+      <div>
+        <label for="timeblock_box">
+          Timeblock
+        </label>
+
+        <input type="text" id="timeblock_box" name="query_timeblock">
+      </div>
+
+      <div>
+        <label for="members_count_box">
+          Members count
+        </label>
+
+        <input type="text" id="members_count_box" name="query_members_count">
+      </div>
+
+      <div>
+        <label for="sgcomments_count_box">
+          Sgcomments count
+        </label>
+
+        <input type="text" id="sgcomments_count_box" name="query_sgcomments_count">
+      </div>
+
+      <button>
+        Create studygroup
+      </button>
+    </form>
+  </div>
+</div>
+
+<hr>
+<div>
+  <div>
+    <table>
+      <tr>
+        <th>
+          ID
+        </th>
+
+        <th>
+          Course
+        </th>
+
+        <th>
+          Timeblock
+        </th>
+
+        <th>
+          Members count
+        </th>
+
+        <th>
+          Sgcomments count
+        </th>
+
+        <th>
+          Created at
+        </th>
+
+        <th>
+          Updated at
+        </th>
+
+        <th>
+        </th>
+      </tr>
+
+      <% @list_of_studygroups.each do |a_studygroup| %>
+      <tr>
+        <td>
+          <%= a_studygroup.id %>
+        </td>
+
+        <td>
+          <%= a_studygroup.course_id %>
+        </td>
+
+        <td>
+          <%= a_studygroup.timeblock %>
+        </td>
+
+        <td>
+          <%= a_studygroup.members_count %>
+        </td>
+
+        <td>
+          <%= a_studygroup.sgcomments_count %>
+        </td>
+
+        <td>
+          <%= time_ago_in_words(a_studygroup.created_at) %> ago
+        </td>
+        <td>
+          <%= time_ago_in_words(a_studygroup.updated_at) %> ago
+        </td>
+
+        <td>
+          <a href="/studygroups/<%= a_studygroup.id %>">
+            Show details
+          </a>
+        </td>
+      </tr>
+      <% end %>
+    </table>
+  </div>
+</div>
+
+<hr>

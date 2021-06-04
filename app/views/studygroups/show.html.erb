@@ -1,0 +1,116 @@
+<div>
+  <div>
+    <h1>
+      Studygroup #<%= @the_studygroup.id %> details
+    </h1>
+
+    <div>
+      <div>
+        <a href="/studygroups">
+          Go back
+        </a>
+      </div>
+
+      <div>
+        <a href="/delete_studygroup/<%= @the_studygroup.id %>">
+          Delete studygroup
+        </a>
+      </div>
+    </div>
+
+    <dl>
+      <dt>
+        Course
+      </dt>
+      <dd>
+        <%= @the_studygroup.course_id %>
+      </dd>
+
+      <dt>
+        Timeblock
+      </dt>
+      <dd>
+        <%= @the_studygroup.timeblock %>
+      </dd>
+
+      <dt>
+        Members count
+      </dt>
+      <dd>
+        <%= @the_studygroup.members_count %>
+      </dd>
+
+      <dt>
+        Sgcomments count
+      </dt>
+      <dd>
+        <%= @the_studygroup.sgcomments_count %>
+      </dd>
+
+      <dt>
+        Created at
+      </dt>
+      <dd>
+        <%= time_ago_in_words(@the_studygroup.created_at) %> ago
+      </dd>
+
+      <dt>
+        Updated at
+      </dt>
+      <dd>
+        <%= time_ago_in_words(@the_studygroup.updated_at) %> ago
+      </dd>
+    </dl>
+  </div>
+</div>
+
+<hr>
+
+
+<div>
+  <div>
+    <h2>
+      Edit studygroup
+    </h2>
+
+    <form action="/modify_studygroup/<%= @the_studygroup.id %>"  method="post" >
+      <div>
+        <label for="course_id_box">
+          Course
+        </label>
+
+        <input type="text" id="course_id_box" name="query_course_id" value="<%= @the_studygroup.course_id %>">
+      </div>
+
+      <div>
+        <label for="timeblock_box">
+          Timeblock
+        </label>
+
+        <input type="text" id="timeblock_box" name="query_timeblock" value="<%= @the_studygroup.timeblock %>">
+      </div>
+
+      <div>
+        <label for="members_count_box">
+          Members count
+        </label>
+
+        <input type="text" id="members_count_box" name="query_members_count" value="<%= @the_studygroup.members_count %>">
+      </div>
+
+      <div>
+        <label for="sgcomments_count_box">
+          Sgcomments count
+        </label>
+
+        <input type="text" id="sgcomments_count_box" name="query_sgcomments_count" value="<%= @the_studygroup.sgcomments_count %>">
+      </div>
+
+      <button>
+        Update studygroup
+      </button>
+    </form>
+  </div>
+</div>
+
+<hr>

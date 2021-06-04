@@ -69,10 +69,24 @@
       </dd>
 
       <dt>
+        Program
+      </dt>
+      <dd>
+        <%= @the_course.program %>
+      </dd>
+
+      <dt>
         Comments count
       </dt>
       <dd>
         <%= @the_course.comments_count %>
+      </dd>
+
+      <dt>
+        Studygroups count
+      </dt>
+      <dd>
+        <%= @the_course.studygroups_count %>
       </dd>
 
       <dt>
@@ -123,7 +137,7 @@
           Schedule
         </label>
 
-        <input type="time" id="schedule_box" name="query_schedule" value="<%= @the_course.schedule %>">
+        <input type="text" id="schedule_box" name="query_schedule" value="<%= @the_course.schedule %>">
       </div>
 
       <div>
@@ -159,11 +173,27 @@
       </div>
 
       <div>
+        <label for="program_box">
+          Program
+        </label>
+
+        <input type="text" id="program_box" name="query_program" value="<%= @the_course.program %>">
+      </div>
+
+      <div>
         <label for="comments_count_box">
           Comments count
         </label>
 
         <input type="text" id="comments_count_box" name="query_comments_count" value="<%= @the_course.comments_count %>">
+      </div>
+
+      <div>
+        <label for="studygroups_count_box">
+          Studygroups count
+        </label>
+
+        <input type="text" id="studygroups_count_box" name="query_studygroups_count" value="<%= @the_course.studygroups_count %>">
       </div>
 
       <button>

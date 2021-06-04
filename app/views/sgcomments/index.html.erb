@@ -1,0 +1,102 @@
+<div>
+  <div>
+    <h1>
+      List of all sgcomments
+    </h1>
+  </div>
+</div>
+
+<hr>
+
+<div>
+  <div>
+    <h2>
+      Add a new sgcomment
+    </h2>
+
+    <form action="/insert_sgcomment" method="post">
+      <div>
+        <label for="user_id_box">
+          User
+        </label>
+
+        <input type="text" id="user_id_box" name="query_user_id">
+      </div>
+
+      <div>
+        <label for="studygroup_id_box">
+          Studygroup
+        </label>
+
+        <input type="text" id="studygroup_id_box" name="query_studygroup_id">
+      </div>
+
+      <button>
+        Create sgcomment
+      </button>
+    </form>
+  </div>
+</div>
+
+<hr>
+<div>
+  <div>
+    <table>
+      <tr>
+        <th>
+          ID
+        </th>
+
+        <th>
+          User
+        </th>
+
+        <th>
+          Studygroup
+        </th>
+
+        <th>
+          Created at
+        </th>
+
+        <th>
+          Updated at
+        </th>
+
+        <th>
+        </th>
+      </tr>
+
+      <% @list_of_sgcomments.each do |a_sgcomment| %>
+      <tr>
+        <td>
+          <%= a_sgcomment.id %>
+        </td>
+
+        <td>
+          <%= a_sgcomment.user_id %>
+        </td>
+
+        <td>
+          <%= a_sgcomment.studygroup_id %>
+        </td>
+
+        <td>
+          <%= time_ago_in_words(a_sgcomment.created_at) %> ago
+        </td>
+        <td>
+          <%= time_ago_in_words(a_sgcomment.updated_at) %> ago
+        </td>
+
+        <td>
+          <a href="/sgcomments/<%= a_sgcomment.id %>">
+            Show details
+          </a>
+        </td>
+      </tr>
+      <% end %>
+    </table>
+  </div>
+</div>
+
+<hr>

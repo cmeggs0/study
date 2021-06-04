@@ -1,0 +1,2 @@
+class Sgcomment < ApplicationRecord
+end

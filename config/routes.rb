@@ -2,6 +2,63 @@ Rails.application.routes.draw do
 
 
 
+  # Routes for the Sgcomment resource:
+
+  # CREATE
+  post("/insert_sgcomment", { :controller => "sgcomments", :action => "create" })
+          
+  # READ
+  get("/sgcomments", { :controller => "sgcomments", :action => "index" })
+  
+  get("/sgcomments/:path_id", { :controller => "sgcomments", :action => "show" })
+  
+  # UPDATE
+  
+  post("/modify_sgcomment/:path_id", { :controller => "sgcomments", :action => "update" })
+  
+  # DELETE
+  get("/delete_sgcomment/:path_id", { :controller => "sgcomments", :action => "destroy" })
+
+  #------------------------------
+
+  # Routes for the Member resource:
+
+  # CREATE
+  post("/insert_member", { :controller => "members", :action => "create" })
+          
+  # READ
+  get("/members", { :controller => "members", :action => "index" })
+  
+  get("/members/:path_id", { :controller => "members", :action => "show" })
+  
+  # UPDATE
+  
+  post("/modify_member/:path_id", { :controller => "members", :action => "update" })
+  
+  # DELETE
+  get("/delete_member/:path_id", { :controller => "members", :action => "destroy" })
+
+  #------------------------------
+
+  # Routes for the Studygroup resource:
+
+  # CREATE
+  post("/insert_studygroup", { :controller => "studygroups", :action => "create" })
+          
+  # READ
+  get("/studygroups", { :controller => "studygroups", :action => "index" })
+  
+  get("/studygroups/:path_id", { :controller => "studygroups", :action => "show" })
+  
+  # UPDATE
+  
+  post("/modify_studygroup/:path_id", { :controller => "studygroups", :action => "update" })
+  
+  # DELETE
+  get("/delete_studygroup/:path_id", { :controller => "studygroups", :action => "destroy" })
+
+  #------------------------------
+
   # Routes for the Employer resource:
 
   # CREATE
@@ -157,6 +214,7 @@ Rails.application.routes.draw do
   # Routes for the User account:
 
   # SIGN UP FORM
+  get("/", { :controller => "user_authentication", :action => "sign_up_form" })     
   get("/user_sign_up", { :controller => "user_authentication", :action => "sign_up_form" })        
   # CREATE RECORD
   post("/insert_user", { :controller => "user_authentication", :action => "create"  })

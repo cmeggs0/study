@@ -1,0 +1,86 @@
+<div>
+  <div>
+    <h1>
+      Sgcomment #<%= @the_sgcomment.id %> details
+    </h1>
+
+    <div>
+      <div>
+        <a href="/sgcomments">
+          Go back
+        </a>
+      </div>
+
+      <div>
+        <a href="/delete_sgcomment/<%= @the_sgcomment.id %>">
+          Delete sgcomment
+        </a>
+      </div>
+    </div>
+
+    <dl>
+      <dt>
+        User
+      </dt>
+      <dd>
+        <%= @the_sgcomment.user_id %>
+      </dd>
+
+      <dt>
+        Studygroup
+      </dt>
+      <dd>
+        <%= @the_sgcomment.studygroup_id %>
+      </dd>
+
+      <dt>
+        Created at
+      </dt>
+      <dd>
+        <%= time_ago_in_words(@the_sgcomment.created_at) %> ago
+      </dd>
+
+      <dt>
+        Updated at
+      </dt>
+      <dd>
+        <%= time_ago_in_words(@the_sgcomment.updated_at) %> ago
+      </dd>
+    </dl>
+  </div>
+</div>
+
+<hr>
+
+
+<div>
+  <div>
+    <h2>
+      Edit sgcomment
+    </h2>
+
+    <form action="/modify_sgcomment/<%= @the_sgcomment.id %>"  method="post" >
+      <div>
+        <label for="user_id_box">
+          User
+        </label>
+
+        <input type="text" id="user_id_box" name="query_user_id" value="<%= @the_sgcomment.user_id %>">
+      </div>
+
+      <div>
+        <label for="studygroup_id_box">
+          Studygroup
+        </label>
+
+        <input type="text" id="studygroup_id_box" name="query_studygroup_id" value="<%= @the_sgcomment.studygroup_id %>">
+      </div>
+
+      <button>
+        Update sgcomment
+      </button>
+    </form>
+  </div>
+</div>
+
+<hr>

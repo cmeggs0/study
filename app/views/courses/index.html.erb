@@ -36,7 +36,7 @@
           Schedule
         </label>
 
-        <input type="time" id="schedule_box" name="query_schedule">
+        <input type="text" id="schedule_box" name="query_schedule">
       </div>
 
       <div>
@@ -72,11 +72,27 @@
       </div>
 
       <div>
+        <label for="program_box">
+          Program
+        </label>
+
+        <input type="text" id="program_box" name="query_program">
+      </div>
+
+      <div>
         <label for="comments_count_box">
           Comments count
         </label>
 
         <input type="text" id="comments_count_box" name="query_comments_count">
+      </div>
+
+      <div>
+        <label for="studygroups_count_box">
+          Studygroups count
+        </label>
+
+        <input type="text" id="studygroups_count_box" name="query_studygroups_count">
       </div>
 
       <button>
@@ -124,7 +140,15 @@
         </th>
 
         <th>
+          Program
+        </th>
+
+        <th>
           Comments count
+        </th>
+
+        <th>
+          Studygroups count
         </th>
 
         <th>
@@ -174,7 +198,15 @@
         </td>
 
         <td>
+          <%= a_course.program %>
+        </td>
+
+        <td>
           <%= a_course.comments_count %>
+        </td>
+
+        <td>
+          <%= a_course.studygroups_count %>
         </td>
 
         <td>
