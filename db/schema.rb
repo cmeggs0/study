@@ -10,15 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2021_06_04_055513) do
-
-  create_table "comments", force: :cascade do |t|
-    t.integer "course_id"
-    t.string "comment"
-    t.integer "user_id"
-    t.datetime "created_at", precision: 6, null: false
-    t.datetime "updated_at", precision: 6, null: false
-  end
+ActiveRecord::Schema.define(version: 2021_06_04_061142) do
 
   create_table "courseloads", force: :cascade do |t|
     t.integer "user_id"
@@ -33,9 +25,11 @@ ActiveRecord::Schema.define(version: 2021_06_04_055513) do
     t.string "schedule"
     t.string "quarter"
     t.string "title"
-    t.integer "course_number"
-    t.integer "section_number"
+    t.string "course_number"
+    t.string "section_number"
+    t.string "program"
     t.integer "comments_count"
+    t.integer "studygroups_count"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
   end
@@ -82,10 +76,18 @@ ActiveRecord::Schema.define(version: 2021_06_04_055513) do
     t.datetime "updated_at", precision: 6, null: false
   end
 
+  create_table "sgcomments", force: :cascade do |t|
+    t.integer "user_id"
+    t.integer "studygroup_id"
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+  end
+
   create_table "studygroups", force: :cascade do |t|
     t.integer "course_id"
-    t.integer "capacity"
+    t.string "timeblock"
     t.integer "members_count"
+    t.integer "sgcomments_count"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
   end
