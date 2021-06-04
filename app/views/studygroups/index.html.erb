@@ -1,7 +1,7 @@
 <div>
   <div>
     <h1>
-      List of all studygroups
+      List of all Study Groups
     </h1>
   </div>
 </div>
@@ -11,7 +11,7 @@
 <div>
   <div>
     <h2>
-      Add a new studygroup
+      Add a new study group
     </h2>
 
     <form action="/insert_studygroup" method="post">
@@ -31,22 +31,6 @@
         <input type="text" id="timeblock_box" name="query_timeblock">
       </div>
 
-      <div>
-        <label for="members_count_box">
-          Members count
-        </label>
-
-        <input type="text" id="members_count_box" name="query_members_count">
-      </div>
-
-      <div>
-        <label for="sgcomments_count_box">
-          Sgcomments count
-        </label>
-
-        <input type="text" id="sgcomments_count_box" name="query_sgcomments_count">
-      </div>
-
       <button>
         Create studygroup
       </button>
@@ -59,9 +43,6 @@
   <div>
     <table>
       <tr>
-        <th>
-          ID
-        </th>
 
         <th>
           Course
@@ -93,12 +74,9 @@
 
       <% @list_of_studygroups.each do |a_studygroup| %>
       <tr>
-        <td>
-          <%= a_studygroup.id %>
-        </td>
 
         <td>
-          <%= a_studygroup.course_id %>
+          <%= a_studygroup.course.title %>
         </td>
 
         <td>

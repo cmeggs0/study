@@ -14,6 +14,10 @@ class CoursesController < ApplicationController
 
     @the_course = matching_courses.at(0)
 
+    matching_studygroups = Studygroup.where({ :course_id => the_id })
+
+    @list_of_studygroups = matching_studygroups.order({ :created_at => :desc })
+
     render({ :template => "courses/show.html.erb" })
   end
 

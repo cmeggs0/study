@@ -11,8 +11,11 @@
         </a>
       </div>
     </div>
-
+    
     <dl>
+      <dt>
+        See course details (external link)
+      </dt>
       <dd>
         <a href="<%= @the_course.description %>">
           Syllabus
@@ -63,14 +66,14 @@
       </dd>
 
       <dt>
-        Comments count
+        Number of Comments
       </dt>
       <dd>
         <%= @the_course.comments_count %>
       </dd>
 
       <dt>
-        Studygroups count
+        Number of Study Groups
       </dt>
       <dd>
         <%= @the_course.studygroups_count %>
@@ -90,11 +93,7 @@
 
     <form action="/insert_studygroup" method="post">
       <div>
-        <label for="course_id_box">
-          Course
-        </label>
-
-        <input type="text" id="course_id_box" name="query_course_id">
+        <input type="hidden" id="course_id_box" name="query_course_id" value="<%= @the_course.id %>">
       </div>
 
       <div>
@@ -102,7 +101,7 @@
           Timeblock
         </label>
 
-        <input type="text" id="timeblock_box" name="query_timeblock">
+        <input type="text" id="timeblock_box" name="query_timeblock" value="eg. Tuesday 3 to 4pm">
       </div>
 
       <button>
@@ -114,6 +113,79 @@
 
 <hr>
 
+<div>
+  <div>
+    <table>
+      <tr>
+
+        <th>
+          Course
+        </th>
+
+        <th>
+          Timeblock
+        </th>
+
+        <th>
+          Members count
+        </th>
+
+        <th>
+          Sgcomments count
+        </th>
+
+        <th>
+          Created at
+        </th>
+
+        <th>
+          Updated at
+        </th>
+
+        <th>
+        </th>
+      </tr>
+
+      <% @list_of_studygroups.each do |a_studygroup| %>
+      <tr>
+
+        <td>
+          <%= a_studygroup.course.title %>
+        </td>
+
+        <td>
+          <%= a_studygroup.timeblock %>
+        </td>
+
+        <td>
+          <%= a_studygroup.members_count %>
+        </td>
+
+        <td>
+          <%= a_studygroup.sgcomments_count %>
+        </td>
+
+        <td>
+          <%= time_ago_in_words(a_studygroup.created_at) %> ago
+        </td>
+        <td>
+          <%= time_ago_in_words(a_studygroup.updated_at) %> ago
+        </td>
+
+        <td>
+          <a href="/studygroups/<%= a_studygroup.id %>">
+            Show details
+          </a>
+        </td>
+      </tr>
+      <% end %>
+    </table>
+  </div>
+</div>
+
+<hr>
+
+<% if false %>
 <div>
   <div>
     <h2>
@@ -206,6 +278,7 @@
       </button>
     </form>
   </div>
-</div>
+</div> 
 
 <hr>
+<% end %>
