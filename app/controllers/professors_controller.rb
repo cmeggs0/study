@@ -21,7 +21,7 @@ class ProfessorsController < ApplicationController
     the_professor = Professor.new
     the_professor.first_name = params.fetch("query_first_name")
     the_professor.last_name = params.fetch("query_last_name")
-    the_professor.email = params.fetch("query_email")
+    the_professor.bio = params.fetch("query_bio")
 
     if the_professor.valid?
       the_professor.save

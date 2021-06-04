@@ -1,7 +1,7 @@
 <div>
   <div>
     <h1>
-      Course #<%= @the_course.id %> details
+      <%= @the_course.title %>
     </h1>
 
     <div>
@@ -10,27 +10,34 @@
           Go back
         </a>
       </div>
-
-      <div>
-        <a href="/delete_course/<%= @the_course.id %>">
-          Delete course
-        </a>
-      </div>
     </div>
 
     <dl>
+      <dd>
+        <a href="<%= @the_course.description %>">
+          Syllabus
+        </a>
+      </dd>
+
       <dt>
-        Description
+        Course number
       </dt>
       <dd>
-        <%= @the_course.description %>
+        <%= @the_course.course_number %>
+      </dd>
+
+      <dt>
+        Section number
+      </dt>
+      <dd>
+        <%= @the_course.section_number %>
       </dd>
 
       <dt>
         School
       </dt>
       <dd>
-        <%= @the_course.school_id %>
+        <%= @the_course.school.name %>
       </dd>
 
       <dt>
@@ -47,26 +54,6 @@
         <%= @the_course.quarter %>
       </dd>
 
-      <dt>
-        Title
-      </dt>
-      <dd>
-        <%= @the_course.title %>
-      </dd>
-
-      <dt>
-        Course number
-      </dt>
-      <dd>
-        <%= @the_course.course_number %>
-      </dd>
-
-      <dt>
-        Section number
-      </dt>
-      <dd>
-        <%= @the_course.section_number %>
-      </dd>
 
       <dt>
         Program
@@ -89,19 +76,6 @@
         <%= @the_course.studygroups_count %>
       </dd>
 
-      <dt>
-        Created at
-      </dt>
-      <dd>
-        <%= time_ago_in_words(@the_course.created_at) %> ago
-      </dd>
-
-      <dt>
-        Updated at
-      </dt>
-      <dd>
-        <%= time_ago_in_words(@the_course.updated_at) %> ago
-      </dd>
     </dl>
   </div>
 </div>

@@ -32,11 +32,11 @@
       </div>
 
       <div>
-        <label for="email_box">
-          Email
+        <label for="bio_box">
+          Link to Bio
         </label>
 
-        <input type="text" id="email_box" name="query_email">
+        <input type="text" id="bio_box" name="query_bio">
       </div>
 
       <button>
@@ -51,28 +51,13 @@
   <div>
     <table>
       <tr>
+
         <th>
-          ID
+          Name
         </th>
 
         <th>
-          First name
-        </th>
-
-        <th>
-          Last name
-        </th>
-
-        <th>
-          Email
-        </th>
-
-        <th>
-          Created at
-        </th>
-
-        <th>
-          Updated at
+          Link to Bio
         </th>
 
         <th>
@@ -81,32 +66,20 @@
 
       <% @list_of_professors.each do |a_professor| %>
       <tr>
+
         <td>
-          <%= a_professor.id %>
+          <%= a_professor.first_name %> <%= a_professor.last_name %>
         </td>
 
         <td>
-          <%= a_professor.first_name %>
-        </td>
-
-        <td>
-          <%= a_professor.last_name %>
-        </td>
-
-        <td>
-          <%= a_professor.email %>
-        </td>
-
-        <td>
-          <%= time_ago_in_words(a_professor.created_at) %> ago
-        </td>
-        <td>
-          <%= time_ago_in_words(a_professor.updated_at) %> ago
+          <a href="<%= a_professor.bio %>">
+            Bio
+          </a>
         </td>
 
         <td>
           <a href="/professors/<%= a_professor.id %>">
-            Show details
+            Details
           </a>
         </td>
       </tr>
