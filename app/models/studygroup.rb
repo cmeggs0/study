@@ -3,12 +3,15 @@
 # Table name: studygroups
 #
 #  id               :integer          not null, primary key
+#  max_members      :integer
 #  members_count    :integer
+#  name             :string
 #  sgcomments_count :integer
 #  timeblock        :string
 #  created_at       :datetime         not null
 #  updated_at       :datetime         not null
 #  course_id        :integer
+#  originator_id    :integer
 #
 class Studygroup < ApplicationRecord
   # Direct Associations

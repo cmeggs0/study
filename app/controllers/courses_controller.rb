@@ -1,8 +1,12 @@
 class CoursesController < ApplicationController
   def index
-    matching_courses = Course.all
+    @q = Course.ransack(params[:c])
+    @list_of_courses = @q.result
+    
 
-    @list_of_courses = matching_courses.order({ :created_at => :desc })
+    #matching_courses = Course.all
+
+    #@list_of_courses = matching_courses.order({ :title => :asc })
 
     render({ :template => "courses/index.html.erb" })
   end

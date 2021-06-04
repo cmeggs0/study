@@ -87,37 +87,55 @@
 </div>
 
 <hr>
+
+<%= search_form_for @q do |f| %>
+  <h4>Narrow search:</h4>
+
+  <div>
+    <%= f.label :title_cont, "What is the title of the course are you looking for?" %>
+    <%= f.text_field :title_cont, :placeholder => "Enter a few characters" %>
+  </div>
+
+  <div class=action>
+  <%= f.submit :class => "btn btn-primary btn-block" %>
+  
+  <a href="/courses">Clear filters</a>
+  </div>
+<% end %>
+
+<hr>
+
 <div>
   <div>
     <table>
       <tr>
 
         <th>
-          School
+          <%= sort_link @q, :school, "School" %>
         </th>
 
         <th>
-          Schedule
+          <%= sort_link @q, :schedule, "Schedule" %>
         </th>
 
         <th>
-          Quarter
+          <%= sort_link @q, :quarter, "Quarter" %>
         </th>
 
         <th>
-          Title
+          <%= sort_link @q, :title, "Title" %>
         </th>
 
         <th>
-          Course number
+          <%= sort_link @q, :course_number, "Course number" %>
         </th>
 
         <th>
-          Section number
+          <%= sort_link @q, :section_number, "Section number" %>
         </th>
 
         <th>
-          Program
+          <%= sort_link @q, :program, "Program" %>
         </th>
 
         <th>
