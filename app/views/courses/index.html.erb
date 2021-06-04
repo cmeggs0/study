@@ -79,22 +79,6 @@
         <input type="text" id="program_box" name="query_program">
       </div>
 
-      <div>
-        <label for="comments_count_box">
-          Comments count
-        </label>
-
-        <input type="text" id="comments_count_box" name="query_comments_count">
-      </div>
-
-      <div>
-        <label for="studygroups_count_box">
-          Studygroups count
-        </label>
-
-        <input type="text" id="studygroups_count_box" name="query_studygroups_count">
-      </div>
-
       <button>
         Create course
       </button>
@@ -107,13 +91,6 @@
   <div>
     <table>
       <tr>
-        <th>
-          ID
-        </th>
-
-        <th>
-          Description
-        </th>
 
         <th>
           School
@@ -152,29 +129,15 @@
         </th>
 
         <th>
-          Created at
-        </th>
-
-        <th>
-          Updated at
-        </th>
-
-        <th>
+        Details
         </th>
       </tr>
 
       <% @list_of_courses.each do |a_course| %>
       <tr>
-        <td>
-          <%= a_course.id %>
-        </td>
 
         <td>
-          <%= a_course.description %>
-        </td>
-
-        <td>
-          <%= a_course.school_id %>
+          <%= a_course.school.name %>
         </td>
 
         <td>
@@ -207,13 +170,6 @@
 
         <td>
           <%= a_course.studygroups_count %>
-        </td>
-
-        <td>
-          <%= time_ago_in_words(a_course.created_at) %> ago
-        </td>
-        <td>
-          <%= time_ago_in_words(a_course.updated_at) %> ago
         </td>
 
         <td>
