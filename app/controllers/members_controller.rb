@@ -19,7 +19,7 @@ class MembersController < ApplicationController
 
   def create
     the_member = Member.new
-    the_member.user_id = params.fetch("query_user_id")
+    the_member.user_id = @current_user.id
     the_member.studygroup_id = params.fetch("query_studygroup_id")
 
     if the_member.valid?

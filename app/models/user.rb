@@ -2,14 +2,15 @@
 #
 # Table name: users
 #
-#  id              :integer          not null, primary key
-#  email           :string
-#  first_name      :string
-#  hidden          :boolean
-#  last_name       :string
-#  password_digest :string
-#  created_at      :datetime         not null
-#  updated_at      :datetime         not null
+#  id                :integer          not null, primary key
+#  email             :string
+#  first_name        :string
+#  hidden            :boolean
+#  last_name         :string
+#  memberships_count :integer
+#  password_digest   :string
+#  created_at        :datetime         not null
+#  updated_at        :datetime         not null
 #
 class User < ApplicationRecord
   validates :email, :uniqueness => { :case_sensitive => false }
@@ -27,4 +28,8 @@ class User < ApplicationRecord
   has_many :courses, through: :courseloads, source: :course
   has_many :schools, through: :enrollments, source: :school
   has_many :studygroups, through: :memberships, source: :studygroup
+
+  def name
+    return self.first_name + " " + self.last_name
+  end
 end

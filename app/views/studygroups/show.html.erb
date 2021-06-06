@@ -1,7 +1,7 @@
 <div>
   <div>
     <h1>
-      Studygroup #<%= @the_studygroup.id %> details
+      <%= @the_studygroup.name %> Study Group
     </h1>
 
     <div>
@@ -12,9 +12,12 @@
       </div>
 
       <div>
+        <% if @the_studygroup.originator_id == @current_user.id %>
         <a href="/delete_studygroup/<%= @the_studygroup.id %>">
           Delete studygroup
         </a>
+        <% else %>
+        <% end %>
       </div>
     </div>
 
@@ -23,7 +26,7 @@
         Course
       </dt>
       <dd>
-        <%= @the_studygroup.course_id %>
+        <%= @the_studygroup.course.title %>
       </dd>
 
       <dt>
@@ -34,10 +37,10 @@
       </dd>
 
       <dt>
-        Members count
+        Members
       </dt>
       <dd>
-        <%= @the_studygroup.members_count %>
+        <%= @the_studygroup.users.at(0).name %> 
       </dd>
 
       <dt>

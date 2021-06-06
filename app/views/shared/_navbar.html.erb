@@ -30,6 +30,12 @@
             <a href="/users" class="dropdown-item">
               Students
             </a>
+            <% if @current_user != nil %>
+            <a href="/user_sign_out" class="dropdown-item">
+              Sign Out
+            </a>
+            <% else %>
+            <% end %>
           </div>
         </li>
       </ul>

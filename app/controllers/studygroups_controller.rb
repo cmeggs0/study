@@ -27,6 +27,10 @@ class StudygroupsController < ApplicationController
 
     if the_studygroup.valid?
       the_studygroup.save
+        the_member = Member.new
+        the_member.user_id = @current_user.id
+        the_member.studygroup_id = the_studygroup.id
+        the_member.save
       redirect_to("/studygroups", { :notice => "Studygroup created successfully." })
     else
       redirect_to("/studygroups", { :notice => "Studygroup failed to create successfully." })
