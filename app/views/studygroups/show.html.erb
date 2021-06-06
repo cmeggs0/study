@@ -39,9 +39,12 @@
       <dt>
         Members
       </dt>
-      <dd>
-        <%= @the_studygroup.users.at(0).name %> 
-      </dd>
+      
+      <% @the_studygroup.users.each do |a_user| %>
+        <dd>
+          <%= a_user.name %>
+        </dd>
+      <% end %>
 
       <dt>
         Sgcomments count
