@@ -20,4 +20,14 @@ class Professor < ApplicationRecord
 
   has_many :courses, through: :curriculums, source: :course
   has_many :schools, through: :employers, source: :school
+
+  def full_name
+    if self.last_name != nil && self.first_name != nil
+      return self.first_name + " " + self.last_name
+    elsif self.first_name != nil
+      return self.first_name
+    else
+      return self.last_name
+    end
+  end
 end

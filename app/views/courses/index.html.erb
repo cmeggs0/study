@@ -96,6 +96,11 @@
     <%= f.text_field :title_cont, :placeholder => "Enter a few characters" %>
   </div>
 
+    <div>
+    <%= f.label :course_number_cont, "What is the course number you are looking for?" %>
+    <%= f.text_field :course_number_cont, :placeholder => "eg. 30120" %>
+  </div>
+
   <div class=action>
   <%= f.submit :class => "btn btn-primary btn-block" %>
   
@@ -132,6 +137,10 @@
 
         <th>
           <%= sort_link @q, :section_number, "Section number" %>
+        </th>
+
+        <th>
+          <%= sort_link @q, :professor, "Professor" %>
         </th>
 
         <th>
@@ -176,6 +185,10 @@
 
         <td>
           <%= a_course.section_number %>
+        </td>
+
+        <td>
+          <%= a_course.professors.at(0).full_name %>
         </td>
 
         <td>
