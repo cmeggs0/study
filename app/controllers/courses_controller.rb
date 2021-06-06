@@ -1,7 +1,7 @@
 class CoursesController < ApplicationController
   def index
-    @q = Course.ransack(params[:c])
-    @list_of_courses = @q.result
+    @q = Course.ransack(params[:q])
+    @list_of_courses = @q.result.order({ :title => :asc })
     
 
     #matching_courses = Course.all

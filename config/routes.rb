@@ -53,6 +53,8 @@ Rails.application.routes.draw do
   # UPDATE
   
   post("/modify_studygroup/:path_id", { :controller => "studygroups", :action => "update" })
+
+  post("/studygroups/join/:path_id", { :controller => "studygroups", :action => "join"})
   
   # DELETE
   get("/delete_studygroup/:path_id", { :controller => "studygroups", :action => "destroy" })

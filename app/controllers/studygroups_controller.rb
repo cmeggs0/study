@@ -37,14 +37,22 @@ class StudygroupsController < ApplicationController
     end
   end
 
+  def join
+    the_id = params.fetch("path_id")
+    the_studygroup = Studygroup.where({ :id => the_id }).at(0)
+      the_member = Member.new
+        the_member.user_id = @current_user.id
+        the_member.studygroup_id = the_studygroup.id
+        the_member.save
+    redirect_to("/studygroups/" + the_studygroup.id.to_s, { :notice => "Successfully joined " + the_studygroup.name})
+  end
+
   def update
     the_id = params.fetch("path_id")
     the_studygroup = Studygroup.where({ :id => the_id }).at(0)
 
     the_studygroup.course_id = params.fetch("query_course_id")
     the_studygroup.timeblock = params.fetch("query_timeblock")
-    the_studygroup.members_count = params.fetch("query_members_count")
-    the_studygroup.sgcomments_count = params.fetch("query_sgcomments_count")
 
     if the_studygroup.valid?
       the_studygroup.save

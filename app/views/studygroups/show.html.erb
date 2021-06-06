@@ -82,31 +82,15 @@
           Course
         </label>
 
-        <input type="text" id="course_id_box" name="query_course_id" value="<%= @the_studygroup.course_id %>">
+        <input type="hidden" id="course_id_box" name="query_course_id" value="<%= @the_studygroup.course_id %>">
       </div>
 
       <div>
         <label for="timeblock_box">
-          Timeblock
+          Time block
         </label>
 
         <input type="text" id="timeblock_box" name="query_timeblock" value="<%= @the_studygroup.timeblock %>">
-      </div>
-
-      <div>
-        <label for="members_count_box">
-          Members count
-        </label>
-
-        <input type="text" id="members_count_box" name="query_members_count" value="<%= @the_studygroup.members_count %>">
-      </div>
-
-      <div>
-        <label for="sgcomments_count_box">
-          Sgcomments count
-        </label>
-
-        <input type="text" id="sgcomments_count_box" name="query_sgcomments_count" value="<%= @the_studygroup.sgcomments_count %>">
       </div>
 
       <button>
@@ -117,3 +101,18 @@
 </div>
 
 <hr>
+
+<div>
+  <div>
+    <h2>
+      Join <%= @the_studygroup.name %>
+    </h2>
+
+    <form action="/studygroups/join/<%= @the_studygroup.id %>"  method="post" >
+
+      <button>
+        Join Now!
+      </button>
+    </form>
+  </div>
+</div>
