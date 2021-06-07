@@ -36,6 +36,14 @@
         <%= @the_studygroup.timeblock %>
       </dd>
 
+       <dt>
+        Max Members
+      </dt>
+      <dd>
+        <%= @the_studygroup.max_members %>
+      </dd>
+
+
       <dt>
         Members
       </dt>
@@ -45,13 +53,6 @@
           <%= a_user.name %>
         </dd>
       <% end %>
-
-      <dt>
-        Sgcomments count
-      </dt>
-      <dd>
-        <%= @the_studygroup.sgcomments_count %>
-      </dd>
 
       <dt>
         Created at
@@ -70,44 +71,54 @@
   </div>
 </div>
 
+<% if Member.where({ :user_id => @current_user.id }).where({ :studygroup_id => @the_studygroup.id }).count != 0 %>
 <hr>
-
-
-<div>
   <div>
-    <h2>
-      Edit studygroup
-    </h2>
+    <div>
+      <h2>
+        Edit Study Group
+      </h2>
 
-    <form action="/modify_studygroup/<%= @the_studygroup.id %>"  method="post" >
-      <div>
-        <label for="course_id_box">
-          Course
-        </label>
+      <form action="/modify_studygroup/<%= @the_studygroup.id %>"  method="post" >
+        <div>
+          <input type="hidden" id="course_id_box" name="query_course_id" value="<%= @the_studygroup.course_id %>">
+        </div>
 
-        <input type="hidden" id="course_id_box" name="query_course_id" value="<%= @the_studygroup.course_id %>">
-      </div>
+        <div>
+          <label for="timeblock_box">
+            Time block
+          </label>
 
-      <div>
-        <label for="timeblock_box">
-          Time block
-        </label>
+          <input type="text" id="timeblock_box" name="query_timeblock" value="<%= @the_studygroup.timeblock %>">
+        </div>
 
-        <input type="text" id="timeblock_box" name="query_timeblock" value="<%= @the_studygroup.timeblock %>">
-      </div>
-
-      <button>
-        Update studygroup
-      </button>
-    </form>
+        <button>
+          Update Study Group
+        </button>
+      </form>
+    </div>
   </div>
-</div>
 
 <hr>
-<%  @the_studygroup.users.each do |a_user| %>
-<% if a_user.id == @current_user.id %>
+  <div>
+    <div>
+      <h2>
+        Leave <%= @the_studygroup.name %>
+      </h2>
 
-<% else %>
+      <form action="/delete_member/<%= Member.where({ :user_id => @current_user.id }).where({ :studygroup_id => @the_studygroup.id }).first.id %>"  method="get" >
+
+        <button>
+          Sorry to see you go!
+        </button>
+      </form>
+    </div>
+  </div>
+
+
+<% elsif Member.where({ :user_id => @current_user.id }).where({ :studygroup_id => @the_studygroup.id }).count == 0 && @the_studygroup.max_members > @the_studygroup.members_count %>
+
+<hr>
   <div>
     <div>
       <h2>
@@ -123,4 +134,8 @@
     </div>
   </div>
 <% end %>
-<% end %>
+
+<hr>
+  <h2>
+  Comments (<%= @the_studygroup.sgcomments_count %>)
+  </hr2>  

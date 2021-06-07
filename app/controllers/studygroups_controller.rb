@@ -14,6 +14,14 @@ class StudygroupsController < ApplicationController
 
     @the_studygroup = matching_studygroups.at(0)
 
+    def group_member
+      if Member.where({ :user_id => @current_user.id }).where({ :studygroup_id => @the_studygroup.id }) != nil
+        return TRUE
+      else
+        return FALSE
+      end
+    end
+
     render({ :template => "studygroups/show.html.erb" })
   end
 

@@ -51,6 +51,6 @@ class MembersController < ApplicationController
 
     the_member.destroy
 
-    redirect_to("/members", { :notice => "Member deleted successfully."} )
+    redirect_to("/studygroups", { :notice => "Member deleted successfully."} )
   end
 end
