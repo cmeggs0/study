@@ -7,7 +7,7 @@
     <div>
       <div>
         <a href="/studygroups">
-          Go back
+          See all Study Groups
         </a>
       </div>
 
@@ -138,4 +138,77 @@
 <hr>
   <h2>
   Comments (<%= @the_studygroup.sgcomments_count %>)
-  </hr2>  
+  </h2>  
+
+<div>
+  <div>
+    <h3>
+      Add a new comment
+    </h3>
+    
+
+    <form action="/insert_sgcomment" method="post">
+
+      <div>
+        <input type="hidden" id="studygroup_id_box" name="query_studygroup_id" value="<%= @the_studygroup.id %>">
+      </div>
+
+      <div>
+        <input type="text" id="content_id_box" name="query_content" placeholder="Enter your comment here...">
+      </div>
+
+      <button>
+        Post Comment
+      </button>
+    </form>
+  </div>
+</div>
+
+<hr>
+<div>
+  <div>
+    <table>
+      <tr>
+        <th>
+          Comment
+        </th>
+
+        <th>
+          Posted by
+        </th>
+
+        <th>
+          Post time
+        </th>
+
+
+        <th>
+        </th>
+      </tr>
+
+      <% @list_of_sgcomments.each do |a_sgcomment| %>
+      <tr>
+        <td>
+          <%= a_sgcomment.content %>
+        </td>
+
+        <td>
+          <%= a_sgcomment.user.name %>
+        </td>
+
+        <td>
+          <%= time_ago_in_words(a_sgcomment.created_at) %> ago
+        </td>
+
+        <td>
+          <a href="/sgcomments/<%= a_sgcomment.id %>">
+            Show details
+          </a>
+        </td>
+      </tr>
+      <% end %>
+    </table>
+  </div>
+</div>
+
+<hr>

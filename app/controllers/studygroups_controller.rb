@@ -14,13 +14,9 @@ class StudygroupsController < ApplicationController
 
     @the_studygroup = matching_studygroups.at(0)
 
-    def group_member
-      if Member.where({ :user_id => @current_user.id }).where({ :studygroup_id => @the_studygroup.id }) != nil
-        return TRUE
-      else
-        return FALSE
-      end
-    end
+    matching_sgcomments = Sgcomment.where({ :studygroup_id => the_id})
+
+    @list_of_sgcomments = matching_sgcomments.order({ :created_at => :desc })
 
     render({ :template => "studygroups/show.html.erb" })
   end
@@ -39,7 +35,7 @@ class StudygroupsController < ApplicationController
         the_member.user_id = @current_user.id
         the_member.studygroup_id = the_studygroup.id
         the_member.save
-      redirect_to("/studygroups", { :notice => "Studygroup created successfully." })
+      redirect_to("/studygroups/#{the_studygroup.id}", { :notice => "Studygroup created successfully." })
     else
       redirect_to("/studygroups", { :notice => "Studygroup failed to create successfully." })
     end

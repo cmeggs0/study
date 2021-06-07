@@ -41,6 +41,16 @@
       </dd>
 
       <dt>
+        Courses
+      </dt>
+      <% @the_professor.courses.each do |a_course| %>
+        <dd>
+          <%= a_course.title %>
+          <% end %>
+        </dd>
+      
+
+      <dt>
         Created at
       </dt>
       <dd>

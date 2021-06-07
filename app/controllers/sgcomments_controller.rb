@@ -18,15 +18,17 @@ class SgcommentsController < ApplicationController
   end
 
   def create
+    the_studygroup_id = params.fetch("query_studygroup_id")
     the_sgcomment = Sgcomment.new
-    the_sgcomment.user_id = params.fetch("query_user_id")
-    the_sgcomment.studygroup_id = params.fetch("query_studygroup_id")
+    the_sgcomment.user_id = @current_user.id
+    the_sgcomment.studygroup_id = the_studygroup_id
+    the_sgcomment.content = params.fetch("query_content")
 
     if the_sgcomment.valid?
       the_sgcomment.save
-      redirect_to("/sgcomments", { :notice => "Sgcomment created successfully." })
+      redirect_to("/studygroups/#{the_studygroup_id}", { :notice => "Comment created successfully." })
     else
-      redirect_to("/sgcomments", { :notice => "Sgcomment failed to create successfully." })
+      redirect_to("/studygroups/#{the_studygroup_id}", { :notice => "Comment failed to create successfully." })
     end
   end
 
