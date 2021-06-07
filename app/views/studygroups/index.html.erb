@@ -7,38 +7,6 @@
 </div>
 
 <hr>
-
-<div>
-  <div>
-    <h2>
-      Add a new study group
-    </h2>
-
-    <form action="/insert_studygroup" method="post">
-      <div>
-        <label for="course_id_box">
-          Course
-        </label>
-
-        <input type="text" id="course_id_box" name="query_course_id">
-      </div>
-
-      <div>
-        <label for="timeblock_box">
-          Timeblock
-        </label>
-
-        <input type="text" id="timeblock_box" name="query_timeblock">
-      </div>
-
-      <button>
-        Create studygroup
-      </button>
-    </form>
-  </div>
-</div>
-
-<hr>
 <div>
   <div>
     <table>
@@ -108,6 +76,101 @@
 
         <td>
           <a href="/studygroups/<%= a_studygroup.id %>">
+            Show details
+          </a>
+        </td>
+      </tr>
+      <% end %>
+    </table>
+  </div>
+</div>
+
+<hr>
+
+<div>
+  <div>
+    <h1>
+      List of all sgcomments
+    </h1>
+  </div>
+</div>
+
+<hr>
+
+<div>
+  <div>
+    <h2>
+      Add a new sgcomment
+    </h2>
+
+    <form action="/insert_sgcomment" method="post">
+      <div>
+        <input type="hidden" id="user_id_box" name="query_user_id" value="<%= @current_user.id %>>
+      </div>
+
+      <div>
+        <input type="hidden" id="studygroup_id_box" name="query_studygroup_id" value="<%= @the_studygroup.id %>">
+      </div>
+
+      <button>
+        Post Comment
+      </button>
+    </form>
+  </div>
+</div>
+
+<hr>
+<div>
+  <div>
+    <table>
+      <tr>
+        <th>
+          ID
+        </th>
+
+        <th>
+          User
+        </th>
+
+        <th>
+          Studygroup
+        </th>
+
+        <th>
+          Created at
+        </th>
+
+        <th>
+          Updated at
+        </th>
+
+        <th>
+        </th>
+      </tr>
+
+      <% @list_of_sgcomments.each do |a_sgcomment| %>
+      <tr>
+        <td>
+          <%= a_sgcomment.id %>
+        </td>
+
+        <td>
+          <%= a_sgcomment.user_id %>
+        </td>
+
+        <td>
+          <%= a_sgcomment.studygroup_id %>
+        </td>
+
+        <td>
+          <%= time_ago_in_words(a_sgcomment.created_at) %> ago
+        </td>
+        <td>
+          <%= time_ago_in_words(a_sgcomment.updated_at) %> ago
+        </td>
+
+        <td>
+          <a href="/sgcomments/<%= a_sgcomment.id %>">
             Show details
           </a>
         </td>
